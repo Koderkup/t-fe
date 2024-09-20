@@ -1,0 +1,10 @@
+{
+  "title": "付款系統",
+  "crypto-input": "加密",
+  "fiat-input": "菲亞特",
+  "crypto-input-placeholder": "選擇加密系統",
+  "fiat-input-placeholder": "選擇法定系統",
+  "modal-crypto-title": "選擇加密支付方式",
+  "modal-fiat-title": "選擇法幣付款方式",
+  "modal-button": "節省"
+}

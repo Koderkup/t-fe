@@ -1,0 +1,91 @@
+{
+  "products-page.empty-placeholder": {
+    "title": "Добавьте свой первый продукт",
+    "description": "Начните создавать свой перечень, добавляя подробную информацию о продукте, включая изображения, описания и цены.",
+    "button-text": "Добавить продукт"
+  },
+
+  "products-page.overview": {
+    "title": "Товары",
+    "all-category": "Все",
+    "button-text": "Добавить продукт"
+  },
+
+  "create-product-page": {
+    "title": "Добавить продукт",
+    "name": "Название продукта",
+    "name-placeholder": "Введите название продукта",
+    "name-error": "Пожалуйста, введите название продукта",
+    "description-short": "Краткое описание (для карточки товара)",
+    "description-short-error": "Пожалуйста, добавьте краткое описание",
+    "description-full": "Полное описание (для страницы товара)",
+    "description-full-error": "Пожалуйста, добавьте полное описание",
+    "description-placeholder": "Опишите продукт",
+    "category": "Категория",
+    "category-placeholder": "Выберите вариант",
+    "media": "Медиа",
+    "media-button-text": "Добавить медиа",
+    "featured": "Отметить как особенное",
+    "price": "Цена",
+    "label": "Ярлык",
+    "attributes": "Атрибуты",
+    "attributes-button-text": "Добавить атрибут",
+    "add-button-text": "Добавить продукт",
+    "labelsPreset": {
+      "last-chance": "последний шанс",
+      "sale": "распродажа",
+      "new": "новый"
+    }
+  },
+
+  "attribute-modal": {
+    "title": "Добавить атрибут",
+    "form": {
+      "name": {
+        "label": "Имя атрибута",
+        "options": {
+          "color": "Цвет",
+          "size": "Размер"
+        }
+      },
+      "feature": {
+        "label": "Характеристика",
+        "placeholder": "Введите характеристику атрибута"
+      },
+      "extraCharge": {
+        "label": "Дополнительная плата",
+        "placeholder": "Добавить дополнительную плату"
+      },
+      "description": {
+        "label": "Описание",
+        "placeholder": "Опишите атрибут"
+      },
+      "hexCode": {
+        "label": "Hex-код",
+        "placeholder": "Введите Hex-код цвета"
+      },
+      "option": "Вариант",
+      "in-stock": "В наличии",
+      "error-text": "Этот атрибут уже существует",
+      "color-error": "Некорректный HEX-код цвета"
+    },
+    "action-buttons": {
+      "save": "Сохранить",
+      "save-changes": "Сохранить изменения",
+      "delete-attribute": "Удалить атрибут",
+      "add-option": "Добавить опцию",
+      "delete-option": "Удалить опцию"
+    }
+  },
+
+  "delete-modal": {
+    "title": "Удалить эту метку?",
+    "text": "Если вы удалите эту метку, она будет удалена со всех карточек товаров.",
+    "button-actions": {
+      "delete": "Удалить",
+      "cancel": "Отмена"
+    }
+  },
+
+  "product-page": "Редактировать продукт"
+}

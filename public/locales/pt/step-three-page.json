@@ -1,0 +1,14 @@
+{
+  "additional-feature-page": {
+    "title": "Escolha /características adicionais/ para a sua aplicação"
+  },
+
+  "payment-method-page": {
+    "payment": "Pagamento",
+    "add": "Adicionar"
+  },
+
+  "feature-page": {
+    "add-for": "Adicionar para {{price}}"
+  }
+}

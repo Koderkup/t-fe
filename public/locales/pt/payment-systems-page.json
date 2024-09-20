@@ -1,0 +1,10 @@
+{
+  "title": "Sistemas de pagamento",
+  "crypto-input": "Criptografia",
+  "fiat-input": "Fiat",
+  "crypto-input-placeholder": "Escolher o sistema de criptografia",
+  "fiat-input-placeholder": "Escolher o sistema fiduciário",
+  "modal-crypto-title": "Selecionar métodos de pagamento criptográficos",
+  "modal-fiat-title": "Selecionar métodos de pagamento fiduciários",
+  "modal-button": "Guardar"
+}

@@ -1,0 +1,29 @@
+@mixin thumb-styles {
+  width: 28px;
+  height: 28px;
+  background: white;
+  cursor: pointer;
+  border-radius: 50%;
+  border: 9px solid #272e37;
+  box-shadow: 0 0 2px #272e37;
+  position: relative;
+  z-index: 10;
+}
+
+.text-size-input[type="range"] {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 2px;
+  background: #d9d9d9;
+  outline: none;
+}
+
+.text-size-input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  @include thumb-styles;
+}
+
+.text-size-input[type="range"]::-moz-range-thumb {
+  @include thumb-styles;
+}

@@ -1,0 +1,83 @@
+{
+  "step-one-page": {
+    "step": "步骤",
+    "title": "输入您企业的 / 基本信息",
+    "placeholder": "输入{{name}}",
+    "placeholder-2": "输入商店 {{inputName}",
+    "placeholder-3": "代币",
+    "step-one-form": {
+      "shop-name-input": "店铺名称",
+      "botToken": "机器人令牌",
+      "address-input": "地址",
+      "phone-number-input": "电话号码",
+      "description": "说明",
+      "email-input": {
+        "label": "电子邮件",
+        "placeholder": "例如：shop@mail.com"
+      },
+      "shop-type-input": {
+        "label": "类型",
+        "placeholder": "选择选项"
+      }
+    },
+    "botTokenText": {
+      "head_over_to": "前往",
+      "and": "和",
+      "get_your_token": "获取您的令牌"
+    }
+  },
+
+  "shop-type-selection-page": {
+    "title": "选择类型",
+    "placeholder": "搜索",
+    "option-1": "化妆品和美容产品",
+    "option-2": "服装和服饰",
+    "option-3": "电子产品和小工具",
+    "option-4": "家居装饰和家具",
+    "option-5": "珠宝和配饰",
+    "option-6": "健康和保健产品",
+    "option-7": "书籍和文具",
+    "option-8": "食品和饮料",
+    "option-9": "婴儿和儿童产品",
+    "option-10": "宠物用品",
+    "option-11": "玩具和游戏",
+    "option-12": "艺术和手工艺品",
+    "option-13": "汽车零部件和配件",
+    "option-14": "鞋类",
+    "option-15": "户外和野营装备",
+    "option-16": "个性化礼品",
+    "option-17": "数字产品（电子书、软件）",
+    "option-18": "订阅盒",
+    "option-19": "复古和古董物品",
+    "option-20": "乐器和配件",
+    "option-21": "办公用品",
+    "option-22": "园艺和户外用品",
+    "option-23": "派对用品和装饰",
+    "option-24": "旅行配件",
+    "option-25": "手表和时间测量器",
+    "option-26": "道德和可持续产品",
+    "option-27": "婚礼和新娘用品",
+    "option-28": "奢侈品",
+    "option-29": "爱好和DIY套件"
+  },
+  "instruction-modal": {
+    "title": "如何获取机器人令牌",
+    "list": {
+      "step-one": {
+        "title": "步骤 1: 打开 @BotFather",
+        "description-1": "在 Telegram 中找到",
+        "description-2": "机器人。它是创建和管理其他机器人的官方机器人。"
+      },
+      "step-two": {
+        "title": "步骤 2: 创建一个新机器人",
+        "description-1": "向",
+        "description-2": "发送 /newbot，然后按照提示为您的机器人命名并设置唯一的用户名。"
+      },
+      "step-three": {
+        "title": "步骤 3: 获取令牌",
+        "description-1": "在您的机器人创建后，",
+        "description-2": "会给您一个令牌。复制它并粘贴到需要的字段中。"
+      }
+    }
+  }
+}

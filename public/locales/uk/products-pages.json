@@ -1,0 +1,91 @@
+{
+  "products-page.empty-placeholder": {
+    "title": "Додайте свій перший продукт",
+    "description": "Почніть створювати свій перелік, додаючи детальну інформацію про продукт, включно із зображеннями, описами та цінами.",
+    "button-text": "Додати продукт"
+  },
+
+  "products-page.overview": {
+    "title": "Товари",
+    "all-category": "Все",
+    "button-text": "Додати продукт"
+  },
+
+  "create-product-page": {
+    "title": "Додати продукт",
+    "name": "Назва продукту",
+    "name-placeholder": "Введіть назву продукту",
+    "name-error": "Будь ласка, введіть назву продукту",
+    "description-short": "Короткий опис (для картки товару)",
+    "description-short-error": "Будь ласка, додайте короткий опис",
+    "description-full": "Повний опис (для сторінки товару)",
+    "description-full-error": "Будь ласка, додайте повний опис",
+    "description-placeholder": "Опишіть продукт",
+    "category": "Категорія",
+    "category-placeholder": "Виберіть варіант",
+    "media": "Медіа",
+    "media-button-text": "Додати медіа",
+    "featured": "Відзначити як особливе",
+    "price": "Ціна",
+    "label": "Ярлик",
+    "attributes": "Атрибути",
+    "attributes-button-text": "Додати атрибут",
+    "add-button-text": "Додати продукт",
+    "labelsPreset": {
+      "last-chance": "останній шанс",
+      "sale": "розпродаж",
+      "new": "новий"
+    }
+  },
+
+  "attribute-modal": {
+    "title": "Додати атрибут",
+    "form": {
+      "name": {
+        "label": "Ім'я атрибута",
+        "options": {
+          "color": "Колір",
+          "size": "Розмір"
+        }
+      },
+      "feature": {
+        "label": "Характеристика",
+        "placeholder": "Введіть характеристику атрибута"
+      },
+      "extraCharge": {
+        "label": "Додаткова плата",
+        "placeholder": "Додати додаткову плату"
+      },
+      "description": {
+        "label": "Опис",
+        "placeholder": "Опишите атрибут"
+      },
+      "hexCode": {
+        "label": "Hex-код",
+        "placeholder": "Введіть Hex-код кольору"
+      },
+      "option": "Варіант",
+      "in-stock": "У наявності",
+      "error-text": "Цей атрибут уже існує",
+      "color-error": "Некоректний HEX-код кольору"
+    },
+    "action-buttons": {
+      "save": "Зберегти",
+      "save-changes": "Зберегти зміни",
+      "delete-attribute": "Видалити атрибут",
+      "add-option": "Додати опцію",
+      "delete-option": "Видалити опцію"
+    }
+  },
+
+  "delete-modal": {
+    "title": "Видалити цю мітку?",
+    "text": "Якщо ви видалите цю мітку, вона буде видалена з усіх карток товарів.",
+    "button-actions": {
+      "delete": "Видалити",
+      "cancel": "Скасувати"
+    }
+  },
+
+  "product-page": "Редагувати продукт"
+}

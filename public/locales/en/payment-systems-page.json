@@ -1,0 +1,10 @@
+{
+  "title": "Payment systems",
+  "crypto-input": "Crypto",
+  "fiat-input": "Fiat",
+  "crypto-input-placeholder": "Choose crypto system",
+  "fiat-input-placeholder": "Choose fiat system",
+  "modal-crypto-title": "Select crypto payment methods",
+  "modal-fiat-title": "Select fiat payment methods",
+  "modal-button": "Save"
+}

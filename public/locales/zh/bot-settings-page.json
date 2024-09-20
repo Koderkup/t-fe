@@ -1,0 +1,22 @@
+{
+  "page-title": "机器人设置",
+  "options": {
+    "option-1": "欢迎词",
+    "option-2": "订单确认信息"
+  },
+  "welcome-message-modal": {
+    "title": "欢迎词",
+    "form": {
+      "media-input": {
+        "placeholder": "添加媒体",
+        "label": "照片"
+      },
+      "text-input": {
+        "placeholder": "写留言",
+        "label": "文本"
+      }
+    }
+  },
+  "order-confirmation-modal": "订单确认",
+  "button-text": "节省"
+}

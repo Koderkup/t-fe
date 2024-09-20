@@ -1,0 +1,35 @@
+{
+  "page-title": "创建应用程序",
+  "page-description": "从各种应用类型的菜单中选择，满足您的业务需求。",
+  "application-type-list": {
+    "item-shop": {
+      "title": "项目商店",
+      "description": "销售消费品"
+    },
+    "services": {
+      "title": "服务",
+      "description": "提供理发、按摩和维修服务"
+    },
+    "booking": {
+      "title": "预订",
+      "description": "协助预订旅行"
+    },
+    "education": {
+      "title": "教育",
+      "description": "提供正规教育"
+    },
+    "healthcare": {
+      "title": "医疗保健",
+      "description": "提供医疗服务"
+    },
+    "transport": {
+      "title": "运输",
+      "description": "提供医疗服务"
+    }
+  },
+  "in-development": "即將推出",
+  "link": {
+    "text": "找不到想要的模板？",
+    "href": "让我们知道"
+  }
+}

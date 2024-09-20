@@ -1,0 +1,41 @@
+.radio-button-container {
+  position: relative;
+}
+
+.radio-button-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.checkmark {
+  position: absolute;
+  top: 18px;
+  right: 0;
+  height: 20px;
+  width: 20px;
+  background-color: none;
+  border-radius: 50%;
+  border: 2px solid #8c949e;
+}
+
+.radio-button-container input:checked ~ .checkmark {
+  border-color: #36404d;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+  top: 50%;
+  left: 50%;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #36404d;
+  transform: translate(-50%, -50%);
+}
+
+.radio-button-container input:checked ~ .checkmark:after {
+  display: block;
+}

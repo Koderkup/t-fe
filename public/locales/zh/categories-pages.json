@@ -1,0 +1,44 @@
+{
+  "categories-page.empty-placeholder": {
+    "title-part-1": "开始:",
+    "title-part-2": "创建类别",
+    "title-part-3": "和",
+    "title-part-4": "添加产品",
+    "description": "整理您的商店，让顾客更容易找到他们要找的东西",
+    "button-text": "添加类别"
+  },
+
+  "categories-page.preview": {
+    "title": "Categorias",
+    "button-text": "Adicionar categoria"
+  },
+
+  "create-category-page": {
+    "title": "创建类别",
+    "name": "类别名称",
+    "name-placeholder": "输入类别名称",
+    "description": "说明",
+    "description-placeholder": "描述类别",
+    "button-text": "添加类别"
+  },
+
+  "category-page": {
+    "title": "产品",
+    "add-product-text": "添加产品",
+    "add-subcategory-text": "添加子类别"
+  },
+
+  "create-subcategory-page": {
+    "title": "创建子类别",
+    "name": "子类别名称",
+    "name-placeholder": "输入子类别名称",
+    "parent-category": "父类",
+    "description": "说明",
+    "description-placeholder": "描述子类别",
+    "button-text": "添加子类别"
+  },
+  "delete-modal": {
+    "cancel": "取消",
+    "delete-category": "删除类别"
+  }
+}

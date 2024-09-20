@@ -1,0 +1,9 @@
+{
+  "title": "Definições da encomenda",
+  "min-order-amount": "Montante mínimo da encomenda",
+  "min-order-amount-with-delivery": "Encomenda mínima com entrega",
+  "forwarding-id": "Envio de encomendas",
+  "forwarding-id-placeholder": "Adicionar ID",
+  "tooltip-text": "Determina para onde serão enviadas as informações sobre novas encomendas",
+  "button-text": "Guardar"
+}

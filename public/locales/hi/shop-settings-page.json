@@ -1,0 +1,22 @@
+{
+  "page-title": "दुकान की सेटिंग",
+  "inputs": {
+    "media-block": {
+      "label": "दुकान छवि",
+      "placeholder": "मीडिया जोड़ो"
+    },
+    "name": "दुकान का नाम*",
+    "bot-token": "बॉट टोकन*",
+    "description": "विवरण",
+    "country": "देश*",
+    "currency*": "मुद्रा*",
+    "search": "खोज",
+    "select-placeholder": "एक {{inputName}} चुनें",
+    "input-placeholder": "एक {{inputName}} दर्ज करें"
+  },
+  "modals": {
+    "country-modal": "देश चुनें",
+    "currency-modal": "मुद्रा चुनें"
+  },
+  "button-text": "बचाना"
+}

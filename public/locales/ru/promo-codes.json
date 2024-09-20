@@ -1,0 +1,32 @@
+{
+  "promo-code-page": {
+    "title": "Редактировать промокод",
+    "button-text": "Сохранить",
+    "delete-button-text": "Удалить промокод"
+  },
+
+  "promo-codes-page": {
+    "title": "Промокоды",
+    "button-text": "Добавить промокод"
+  },
+
+  "create-promo-code-page": {
+    "title": "Создайте промокод",
+    "button-text": "Создать"
+  },
+
+  "promo-code-form": {
+    "name": "Название промокода",
+    "name-placeholder": "Введите название промокода",
+    "discount": "Скидка",
+    "start-date": "Дата начала",
+    "date-placeholder": "Выберите дату",
+    "end-date": "Дата окончания",
+    "activate": "Активируйте",
+    "end-date-error": "Пожалуйста, введите корректную дату",
+    "datepicker-start-title": "Выберите дату начала",
+    "datepicker-end-title": "Выберите дату окончания",
+    "datepicker-start-button": "Установите дату начала",
+    "datepicker-end-button": "Установите дату окончания"
+  }
+}

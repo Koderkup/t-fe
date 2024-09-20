@@ -1,0 +1,35 @@
+{
+  "page-title": "Criar aplicação",
+  "page-description": "Escolha a partir de um menu de vários tipos de aplicações que respondem às suas necessidades comerciais.",
+  "application-type-list": {
+    "item-shop": {
+      "title": "Loja de artigos",
+      "description": "Venda de bens de consumo"
+    },
+    "services": {
+      "title": "Serviços",
+      "description": "Oferece cortes de cabelo, massagens e reparações"
+    },
+    "booking": {
+      "title": "Reserva",
+      "description": "Ajuda na reserva de viagens"
+    },
+    "education": {
+      "title": "Educação",
+      "description": "Oferece educação formal"
+    },
+    "healthcare": {
+      "title": "Cuidados de saúde",
+      "description": "Prestação de serviços médicos"
+    },
+    "transport": {
+      "title": "Transporte",
+      "description": "Prestação de cuidados médicos"
+    }
+  },
+  "in-development": "Em breve",
+  "link": {
+    "text": "Não consegue encontrar o modelo que pretende?",
+    "href": "Informe-nos"
+  }
+}

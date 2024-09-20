@@ -1,0 +1,32 @@
+{
+  "promo-code-page": {
+    "title": "Edit promocode",
+    "button-text": "Save",
+    "delete-button-text": "Delete promocode"
+  },
+
+  "promo-codes-page": {
+    "title": "Promocodes",
+    "button-text": "Add promocode"
+  },
+
+  "create-promo-code-page": {
+    "title": "Create promocode",
+    "button-text": "Create"
+  },
+
+  "promo-code-form": {
+    "name": "Promocode name",
+    "name-placeholder": "Enter promocode name",
+    "discount": "Discount",
+    "start-date": "Start date",
+    "date-placeholder": "Choose date",
+    "end-date": "End date",
+    "activate": "Activate",
+    "end-date-error": "Please enter a valid date",
+    "datepicker-start-title": "Choose start date",
+    "datepicker-end-title": "Choose end date",
+    "datepicker-start-button": "Set start date",
+    "datepicker-end-button": "Set end date"
+  }
+}

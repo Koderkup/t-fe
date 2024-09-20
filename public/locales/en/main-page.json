@@ -1,0 +1,35 @@
+{
+  "page-title": "Create application",
+  "page-description": "Choose from a menu of various application types that cater to your business needs.",
+  "application-type-list": {
+    "item-shop": {
+      "title": "Item shop",
+      "description": "Sells consumer goods"
+    },
+    "services": {
+      "title": "Services",
+      "description": "Offers haircuts, massages, and repairs"
+    },
+    "booking": {
+      "title": "Booking",
+      "description": "Assists in booking travel"
+    },
+    "education": {
+      "title": "Education",
+      "description": "Provides formal education"
+    },
+    "healthcare": {
+      "title": "Healthcare",
+      "description": "Provides medical services"
+    },
+    "transport": {
+      "title": "Transport",
+      "description": "Provides medical care"
+    }
+  },
+  "in-development": "Coming soon",
+  "link": {
+    "text": "Can't find the template you want?",
+    "href": "Let us know"
+  }
+}

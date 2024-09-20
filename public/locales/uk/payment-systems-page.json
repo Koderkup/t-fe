@@ -1,0 +1,10 @@
+{
+  "title": "Платіжні системи",
+  "crypto-input": "Крипто",
+  "fiat-input": "Фіат",
+  "crypto-input-placeholder": "Виберіть криптосистему",
+  "fiat-input-placeholder": "Обирайте систему фіат",
+  "modal-crypto-title": "Виберіть способи оплати криптовалютою",
+  "modal-fiat-title": "Виберіть фіатні способи оплати",
+  "modal-button": "Зберегти"
+}

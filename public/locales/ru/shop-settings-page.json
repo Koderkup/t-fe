@@ -1,0 +1,22 @@
+{
+  "page-title": "Настройки магазина",
+  "inputs": {
+    "media-block": {
+      "label": "Изображение магазина",
+      "placeholder": "Добавить медиа"
+    },
+    "name": "Название магазина*",
+    "bot-token": "Токен бота*",
+    "description": "Описание",
+    "country": "Страна*",
+    "currency*": "Валюта*",
+    "search": "Поиск",
+    "select-placeholder": "Выберите {{inputName}}",
+    "input-placeholder": "Введите {{inputName}}"
+  },
+  "modals": {
+    "country-modal": "Выберите страну",
+    "currency-modal": "Выберите валюту"
+  },
+  "button-text": "Сохранить"
+}

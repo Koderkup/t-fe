@@ -1,0 +1,23 @@
+{
+  "welcome-page": {
+    "title": "Welcome to",
+    "description": "Create unique applications for your business directly in Telegram with ease and convenience",
+    "continue": "Continue",
+    "skip": "Skip",
+    "next": "Next",
+    "get-started": "Get started",
+    "step": "Step",
+    "step-1-title": "Why do you need Tapply?",
+    "step-1-description": "Tapply offers a convenient way to build websites directly within Telegram",
+    "step-2-title": "Tapply advantages",
+    "step-2-description": "Our app streamlines website building with flexible design, customization, and built-in analytics/SEO tools",
+    "step-3-title": "Create your application",
+    "step-3-description": "Create unique applications for your business directly in Telegram with ease and convenience",
+    "step-4-title": "Application management",
+    "step-4-description": "Manage the created application, including managing functions, monitoring and updates",
+    "step-5-title": "Support and contacts",
+    "step-5-description": "If you have any questions or need assistance, don't hesitate to contact our support team",
+    "step-6-title": "Free 14 days trial!",
+    "step-6-description": "Try Tapply for free for 14 days and see how convenient it is to manage your tasks"
+  }
+}

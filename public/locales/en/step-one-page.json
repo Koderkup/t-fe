@@ -1,0 +1,83 @@
+{
+  "step-one-page": {
+    "step": "Step",
+    "title": "Enter /basic information/ about your business",
+    "placeholder": "Enter {{name}}",
+    "placeholder-2": "Enter shop {{inputName}}",
+    "placeholder-3": "Token",
+    "step-one-form": {
+      "shop-name-input": "Shop name",
+      "botToken": "Bot Token",
+      "address-input": "Address",
+      "phone-number-input": "Phone number",
+      "description": "Description",
+      "email-input": {
+        "label": "Email",
+        "placeholder": "e.g. shop@mail.com"
+      },
+      "shop-type-input": {
+        "label": "Type",
+        "placeholder": "Choose option"
+      }
+    },
+    "botTokenText": {
+      "head_over_to": "Head over to",
+      "and": "and",
+      "get_your_token": "get your token"
+    }
+  },
+
+  "shop-type-selection-page": {
+    "title": "Select type",
+    "placeholder": "Search",
+    "option-1": "Cosmetics and Beauty Products",
+    "option-2": "Clothing and Apparel",
+    "option-3": "Electronics and Gadgets",
+    "option-4": "Home Decor and Furniture",
+    "option-5": "Jewelry and Accessories",
+    "option-6": "Health and Wellness Products",
+    "option-7": "Books and Stationery",
+    "option-8": "Food and Beverage",
+    "option-9": "Baby and Kids Products",
+    "option-10": "Pet Supplies",
+    "option-11": "Toys and Games",
+    "option-12": "Art and Crafts",
+    "option-13": "Automotive Parts and Accessories",
+    "option-14": "Footwear",
+    "option-15": "Outdoor and Camping Gear",
+    "option-16": "Personalized Gifts",
+    "option-17": "Digital Products (eBooks, Software)",
+    "option-18": "Subscription Boxes",
+    "option-19": "Vintage and Antique Items",
+    "option-20": "Musical Instruments and Accessories",
+    "option-21": "Office Supplies",
+    "option-22": "Gardening and Outdoor Supplies",
+    "option-23": "Party Supplies and Decorations",
+    "option-24": "Travel Accessories",
+    "option-25": "Watches and Timepieces",
+    "option-26": "Ethical and Sustainable Products",
+    "option-27": "Wedding and Bridal Supplies",
+    "option-28": "Luxury Goods",
+    "option-29": "Hobby and DIY Kits"
+  },
+  "instruction-modal": {
+    "title": "How To Get Bot Token",
+    "list": {
+      "step-one": {
+        "title": "Step 1: Open @BotFather",
+        "description-1": "Find the",
+        "description-2": "bot in Telegram. It’s the official bot for creating and managing other bots."
+      },
+      "step-two": {
+        "title": "Step 2: Create a New Bot",
+        "description-1": "Send /newbot to ,",
+        "description-2": "then follow the prompts to name your bot and set a unique username."
+      },
+      "step-three": {
+        "title": "Step 3: Get the Token",
+        "description-1": "After your bot is created,",
+        "description-2": "will give you a token. Copy it and paste it into the required field."
+      }
+    }
+  }
+}

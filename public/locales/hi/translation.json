@@ -1,0 +1,77 @@
+{
+  "home-page.navigation": {
+    "main": "मुख्य",
+    "settings": "समायोजन",
+    "categories": "श्रेणियाँ",
+    "products": "उत्पादों",
+    "orders": "आदेश",
+    "newsletters": "समाचार पत्रिका",
+    "payment": "भुगतान",
+    "bot-settings": "बॉट सेटिंग्स",
+    "order-settings": "ऑर्डर सेटिंग",
+    "ad-block": "विज्ञापन ब्लॉक",
+    "promo-codes": "रोमो कोड",
+    "promo-block": "प्रोमो ब्लॉक"
+  },
+  "action-sheet.actions": {
+    "edit": "संपादन करना",
+    "delete": "मिटाना",
+    "continue": "जारी रखें"
+  },
+  "dropdown-menu": {
+    "selected": "चयनित:",
+    "items": "आइटम",
+    "item": "आइटम",
+    "menu-actions": {
+      "menu-open": "विवरण देखें",
+      "close-menu": "विवरण छुपाएं",
+      "remove-feature": "हटाएं"
+    },
+    "features": {
+      "visual-design": "विज़ुअल डिज़ाइन"
+    }
+  },
+  "control-panel": {
+    "create-app": "एक ऐप बनाएं",
+    "administrate": "व्यवस्थापक",
+    "app-settings": "एप्लिकेशन सेटिंग"
+  },
+  "example-text": "मेरे डिब्बे को पाँच दर्जन शराब के जगों से भर दो।",
+  "languages-modal": {
+    "title": "भाषा चुने",
+    "input-placeholder": "खोज",
+    "zh": "चीनी",
+    "en": "अंग्रेज़ी",
+    "hi": "हिंदी",
+    "pt": "पुर्तगाली",
+    "uk": "यूक्रेनी",
+    "ru": "रूसी"
+  },
+  "app-settings-page": {
+    "page-title": "समायोजन",
+    "balance": "सिक्के का संतुलन टैप करें",
+    "phone-number": "फ़ोन नंबर",
+    "name": "नाम",
+    "last-name": "उपनाम",
+    "last-name-placeholder": "दूसरा नाम",
+    "language": "भाषा*",
+    "language-placeholder": "विकल्प चुनें"
+  },
+  "coupon-modal": {
+    "title": "बधाई हो",
+    "description": "आपने अभी-अभी 100 TapplyCoins का कूपन अनलॉक किया है",
+    "button-text": "उसे ले लो"
+  },
+  "error-messages": {
+    "required": "यह फ़ील्ड आवश्यक है",
+    "email": "अमान्य ईमेल प्रारूप",
+    "phoneNumber": "अमान्य फ़ोन नंबर प्रारूप"
+  },
+  "administrate-page": {
+    "title": "दुकान प्रशासन",
+    "description": {
+      "part-1": "यहां आप सभी स्टोर",
+      "part-2": "देख सकते हैं जो आपके प्रशासन के अधीन हैं"
+    }
+  }
+}

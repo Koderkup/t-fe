@@ -1,0 +1,22 @@
+{
+  "page-title": "Definições da loja",
+  "inputs": {
+    "media-block": {
+      "label": "Imagem da loja",
+      "placeholder": "Adicionar meios de comunicação"
+    },
+    "name": "Nome da loja*",
+    "bot-token": "Token de garrafa*",
+    "description": "Descrição",
+    "country": "País*",
+    "currency*": "Moeda*",
+    "search": "Pesquisar",
+    "select-placeholder": "Selecionar um {{inputName}}",
+    "input-placeholder": "Introduzir um {{inputName}}"
+  },
+  "modals": {
+    "country-modal": "Selecionar país",
+    "currency-modal": "Selecionar moeda"
+  },
+  "button-text": "Guardar"
+}

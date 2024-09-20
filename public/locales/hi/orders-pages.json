@@ -1,0 +1,40 @@
+{
+  "order-history-page": {
+    "title": "आदेश इतिहास",
+    "link-text": "विस्तृत जानकारी देखें"
+  },
+  "order-details-page": {
+    "title": "ऑर्डर #{{orderNumber}}",
+    "info-list": {
+      "order-date": "आर्डर की तारीख:",
+      "customer-name": "ग्राहक का नाम:",
+      "customer-number": "ग्राहक संख्या:",
+      "delivery-address": "डिलिवरी का पता:",
+      "payment": "भुगतान:",
+      "status": "स्थिति:"
+    },
+    "price-info": {
+      "subtotal": "उप-योग",
+      "discount": "छूट",
+      "delivery": "वितरण"
+    },
+    "button-text": "अवस्था बदलो"
+  },
+  "status-modal": {
+    "cancel": "रद्द करना",
+    "title": "स्थिति चुनें",
+    "button-text": "स्थिति निर्धारित करें"
+  },
+  "quantity": "मात्रा",
+  "total": "कुल",
+  "status-variants": {
+    "pending": "लंबित",
+    "paid": "चुकाया गया",
+    "confirmed": "की पुष्टि",
+    "shipped": "लादा गया",
+    "delivered": "पहुंचा दिया",
+    "cancelled": "रद्द"
+  },
+
+  "data-placeholder": "अभी तक कोई आदेश नहीं!"
+}

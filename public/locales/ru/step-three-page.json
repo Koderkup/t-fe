@@ -1,0 +1,14 @@
+{
+  "additional-feature-page": {
+    "title": "Выберите /дополнительные функции/ для вашего приложения"
+  },
+
+  "payment-method-page": {
+    "payment": "Оплата",
+    "add": "Добавить"
+  },
+
+  "feature-page": {
+    "add-for": "Добавить за {{price}}"
+  }
+}

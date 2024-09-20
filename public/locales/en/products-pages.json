@@ -1,0 +1,91 @@
+{
+  "products-page.empty-placeholder": {
+    "title": "Add your first product",
+    "description": "Start building your inventory by adding detailed information about your product, including images, descriptions, and pricing",
+    "button-text": "Add product"
+  },
+
+  "products-page.overview": {
+    "title": "Products",
+    "all-category": "All",
+    "button-text": "Add product"
+  },
+
+  "create-product-page": {
+    "title": "Add product",
+    "name": "Product name",
+    "name-placeholder": "Enter product name",
+    "name-error": "Please enter product name",
+    "description-short": "Short description (for product card)",
+    "description-short-error": "Please add short description",
+    "description-full": "Full description (for product page)",
+    "description-full-error": "Please add full description",
+    "description-placeholder": "Describe product",
+    "category": "Category",
+    "category-placeholder": "Choose option",
+    "media": "Media",
+    "media-button-text": "Add media",
+    "featured": "Mark as featured",
+    "price": "Price",
+    "label": "Label",
+    "attributes": "Attributes",
+    "attributes-button-text": "Add attribute",
+    "add-button-text": "Add product",
+    "labelsPreset": {
+      "last-chance": "last chance",
+      "sale": "sale",
+      "new": "new"
+    }
+  },
+
+  "attribute-modal": {
+    "title": "Add attribute",
+    "form": {
+      "name": {
+        "label": "Attribute name",
+        "options": {
+          "color": "Color",
+          "size": "Size"
+        }
+      },
+      "feature": {
+        "label": "Feature",
+        "placeholder": "Enter attribute feature"
+      },
+      "extraCharge": {
+        "label": "Extra charge",
+        "placeholder": "Add extra charge"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Describe the attribute"
+      },
+      "hexCode": {
+        "label": "Hex Code",
+        "placeholder": "Enter Hex color code"
+      },
+      "option": "Option",
+      "in-stock": "In stock",
+      "error-text": "This attribute already exists",
+      "color-error": "Invalid HEX color code"
+    },
+    "action-buttons": {
+      "save": "Save",
+      "save-changes": "Save changes",
+      "delete-attribute": "Delete attribute",
+      "add-option": "Add option",
+      "delete-option": "Delete option"
+    }
+  },
+
+  "delete-modal": {
+    "title": "Delete this label?",
+    "text": "If you delete this label, it will be removed from all product cards.",
+    "button-actions": {
+      "delete": "Delete",
+      "cancel": "Cancel"
+    }
+  },
+
+  "product-page": "Edit product"
+}

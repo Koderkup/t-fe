@@ -1,0 +1,35 @@
+{
+  "page-title": "您想如何/支付？",
+  "all-items": "所有项目",
+  "action": "薪酬",
+  "total": "薪酬",
+  "link-text": "什么是 TaplyCoin？",
+  "payment-methods": {
+    "title": "付款方式",
+    "stripe": {
+      "description": "使用信用卡或借记卡进行交易"
+    },
+    "ton": {
+      "description": "每次交易，用户还可获得 TapplyCoin"
+    }
+  },
+  "tapply-coin-page": {
+    "description": "通过 TON 进行的每笔交易，用户都会收到 TapplyCoin - 品牌代币，可以在应用程序中使用，获得独家设计、折扣和其他独特功能。",
+    "list-title": "这些代币可用于",
+    "usage-text": {
+      "first": "购买无法按标准购买的特殊设计",
+      "second": "获得未来更新或附加功能的折扣。",
+      "third": "参加只有 TapplyCoin 拥有者才能参加的独家促销和优惠活动。"
+    }
+  },
+  "payment-confirmation": {
+    "page-title": "祝贺您 购买新应用程序",
+    "page-description": "我们祝您生意兴隆。我们相信，您的新应用程序将为企业的发展和繁荣做出贡献。",
+    "page-cell": "管理申请的下一步骤将很快发送给您",
+    "link": {
+      "text": "您有任何问题吗？",
+      "href": "联系我们"
+    },
+    "button-text": "返回主页"
+  }
+}

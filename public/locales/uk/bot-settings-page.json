@@ -1,0 +1,22 @@
+{
+  "page-title": "Налаштування бота",
+  "options": {
+    "option-1": "Вітальне повідомлення",
+    "option-2": "Повідомлення про підтвердження замовлення"
+  },
+  "welcome-message-modal": {
+    "title": "Вітальне повідомлення",
+    "form": {
+      "media-input": {
+        "placeholder": "Додати медіа",
+        "label": "Фото"
+      },
+      "text-input": {
+        "placeholder": "Написати повідомлення",
+        "label": "Текст"
+      }
+    }
+  },
+  "order-confirmation-modal": "Підтвердження замовлення",
+  "button-text": "Зберегти"
+}

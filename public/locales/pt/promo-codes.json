@@ -1,0 +1,32 @@
+{
+  "promo-code-page": {
+    "title": "Editar código promocional",
+    "button-text": "Guardar",
+    "delete-button-text": "Eliminar o código promocional"
+  },
+
+  "promo-codes-page": {
+    "title": "Códigos promocionais",
+    "button-text": "Adicionar código promocional"
+  },
+
+  "create-promo-code-page": {
+    "title": "Criar código promocional",
+    "button-text": "Criar"
+  },
+
+  "promo-code-form": {
+    "name": "Nome do código promocional",
+    "name-placeholder": "Introduzir o nome do código promocional",
+    "discount": "Desconto",
+    "start-date": "Data de início",
+    "date-placeholder": "Selecionar data",
+    "end-date": "Data final",
+    "activate": "Ativar",
+    "end-date-error": "Introduzir uma data válida",
+    "datepicker-start-title": "Selecionar a data de início",
+    "datepicker-end-title": "Selecionar a data final",
+    "datepicker-start-button": "Definir data de início",
+    "datepicker-end-button": "Definir data de fim"
+  }
+}

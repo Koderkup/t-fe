@@ -1,0 +1,40 @@
+{
+  "order-history-page": {
+    "title": "Histórico de encomendas",
+    "link-text": "Ver detalhes"
+  },
+  "order-details-page": {
+    "title": "Encomendar #{{orderNumber}}",
+    "info-list": {
+      "order-date": "Data de encomenda:",
+      "customer-name": "Nome do cliente:",
+      "customer-number": "Número de cliente:",
+      "delivery-address": "Endereço de entrega:",
+      "payment": "Pagamento:",
+      "status": "Estado:"
+    },
+    "price-info": {
+      "subtotal": "Subtotal",
+      "discount": "Desconto",
+      "delivery": "Entrega"
+    },
+    "button-text": "Alterar o estado"
+  },
+  "status-modal": {
+    "cancel": "Cancelar",
+    "title": "Selecionar o estado",
+    "button-text": "Definir estado"
+  },
+  "quantity": "Quantidade",
+  "total": "Total",
+  "status-variants": {
+    "pending": "Pendente",
+    "paid": "Pago",
+    "confirmed": "Confirmado",
+    "shipped": "Enviado",
+    "delivered": "Entregue",
+    "cancelled": "Cancelado"
+  },
+
+  "data-placeholder": "Ainda não há encomendas!"
+}

@@ -1,0 +1,44 @@
+{
+  "categories-page.empty-placeholder": {
+    "title-part-1": "शुरू हो जाओ:",
+    "title-part-2": "श्रेणियां बनाएं",
+    "title-part-3": "और",
+    "title-part-4": "उत्पाद जोड़ें",
+    "description": "अपने स्टोर को व्यवस्थित करें ताकि ग्राहकों के लिए वे जो खोज रहे हैं उसे ढूंढना आसान हो सके",
+    "button-text": "श्रेणी जोड़ना"
+  },
+
+  "categories-page.preview": {
+    "title": "श्रेणियाँ",
+    "button-text": "श्रेणी जोड़ना"
+  },
+
+  "create-category-page": {
+    "title": "श्रेणी बनाएं",
+    "name": "श्रेणी नाम",
+    "name-placeholder": "श्रेणी का नाम दर्ज करें",
+    "description": "विवरण",
+    "description-placeholder": "श्रेणी का वर्णन करें",
+    "button-text": "श्रेणी जोड़ना"
+  },
+
+  "category-page": {
+    "title": "उत्पादों",
+    "add-product-text": "उत्पाद जोड़ें",
+    "add-subcategory-text": "उपश्रेणी जोड़ें"
+  },
+
+  "create-subcategory-page": {
+    "title": "उपश्रेणी बनाएं",
+    "name": "उपश्रेणी का नाम",
+    "name-placeholder": "उपश्रेणी का नाम दर्ज करें",
+    "parent-category": "अभिभावक श्रेणी",
+    "description": "विवरण",
+    "description-placeholder": "उपश्रेणी का वर्णन करें",
+    "button-text": "उपश्रेणी जोड़ें"
+  },
+  "delete-modal": {
+    "cancel": "रद्द करना",
+    "delete-category": "श्रेणी हटाएँ"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "promo-code-page": {
+    "title": "प्रोमोकोड संपादित करें",
+    "button-text": "बचाना",
+    "delete-button-text": "प्रोमोकोड हटाएँ"
+  },
+
+  "promo-codes-page": {
+    "title": "प्रोमो कोड",
+    "button-text": "प्रोमो कोड जोड़ें"
+  },
+
+  "create-promo-code-page": {
+    "title": "प्रोमोकोड बनाएं",
+    "button-text": "बनाएं"
+  },
+
+  "promo-code-form": {
+    "name": "प्रोमोकोड नाम",
+    "name-placeholder": "प्रोमोकोड नाम दर्ज करें",
+    "discount": "छूट",
+    "start-date": "आरंभ करने की तिथि",
+    "date-placeholder": "तारीख चुनें",
+    "end-date": "अंतिम तिथि",
+    "activate": "सक्रिय",
+    "end-date-error": "कृपया कोई मान्य दिनांक दर्ज करें",
+    "datepicker-start-title": "आरंभ तिथि चुनें",
+    "datepicker-end-title": "अंतिम तिथि चुनें",
+    "datepicker-start-button": "आरंभ तिथि निर्धारित करें",
+    "datepicker-end-button": "अंतिम तिथि निर्धारित करें"
+  }
+}

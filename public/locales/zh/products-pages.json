@@ -1,0 +1,91 @@
+{
+  "products-page.empty-placeholder": {
+    "title": "添加第一个产品",
+    "description": "添加有关产品的详细信息，包括图片、描述和定价，开始建立库存",
+    "button-text": "添加产品"
+  },
+
+  "products-page.overview": {
+    "title": "产品",
+    "all-category": "一应俱全",
+    "button-text": "添加产品"
+  },
+
+  "create-product-page": {
+    "title": "添加产品",
+    "name": "产品名称",
+    "name-placeholder": "输入产品名称",
+    "name-error": "请输入产品名称",
+    "description-short": "简短描述（用于产品卡）",
+    "description-short-error": "请添加简短说明",
+    "description-full": "完整描述（用于产品页面）",
+    "description-full-error": "请添加完整描述",
+    "description-placeholder": "描述产品",
+    "category": "类别",
+    "category-placeholder": "选择选项",
+    "media": "媒体",
+    "media-button-text": "添加媒体",
+    "featured": "标记为特色",
+    "price": "价格",
+    "label": "标签",
+    "attributes": "属性",
+    "attributes-button-text": "添加属性",
+    "add-button-text": "添加产品",
+    "labelsPreset": {
+      "last-chance": "最后机会",
+      "sale": "销售",
+      "new": "新"
+    }
+  },
+
+  "attribute-modal": {
+    "title": "添加属性",
+    "form": {
+      "name": {
+        "label": "属性名称",
+        "options": {
+          "color": "颜色",
+          "size": "尺寸"
+        }
+      },
+      "feature": {
+        "label": "特点",
+        "placeholder": "输入属性特征"
+      },
+      "extraCharge": {
+        "label": "额外收费",
+        "placeholder": "加收额外费用"
+      },
+      "description": {
+        "label": "说明",
+        "placeholder": "描述属性"
+      },
+      "hexCode": {
+        "label": "十六进制代码",
+        "placeholder": "输入十六进制颜色代码"
+      },
+      "option": "选项",
+      "in-stock": "有库存",
+      "error-text": "该属性已经存在",
+      "color-error": "无效的HEX颜色代码"
+    },
+    "action-buttons": {
+      "save": "节省",
+      "save-changes": "保存更改",
+      "delete-attribute": "删除属性",
+      "add-option": "添加选项",
+      "delete-option": "删除选项"
+    }
+  },
+
+  "delete-modal": {
+    "title": "删除此标签?",
+    "text": "如果删除此标签，它将从所有产品卡中移除。",
+    "button-actions": {
+      "delete": "删除",
+      "cancel": "取消"
+    }
+  },
+
+  "product-page": "编辑产品"
+}

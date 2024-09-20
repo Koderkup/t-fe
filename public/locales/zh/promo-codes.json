@@ -1,0 +1,32 @@
+{
+  "promo-code-page": {
+    "title": "编辑促销代码",
+    "button-text": "节省",
+    "delete-button-text": "删除促销代码"
+  },
+
+  "promo-codes-page": {
+    "title": "促销代码",
+    "button-text": "添加促销代码"
+  },
+
+  "create-promo-code-page": {
+    "title": "创建促销代码",
+    "button-text": "创建"
+  },
+
+  "promo-code-form": {
+    "name": "促销代码名称",
+    "name-placeholder": "输入促销代码名称",
+    "discount": "折扣",
+    "start-date": "开始日期",
+    "date-placeholder": "选择日期",
+    "end-date": "结束日期",
+    "activate": "激活",
+    "end-date-error": "请输入有效日期",
+    "datepicker-start-title": "选择开始日期",
+    "datepicker-end-title": "选择结束日期",
+    "datepicker-start-button": "设定开始日期",
+    "datepicker-end-button": "设定结束日期"
+  }
+}

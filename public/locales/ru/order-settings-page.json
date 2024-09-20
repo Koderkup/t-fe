@@ -1,0 +1,9 @@
+{
+  "title": "Настройки заказа",
+  "min-order-amount": "Минимальная сумма заказа",
+  "min-order-amount-with-delivery": "Минимальный заказ с доставкой",
+  "forwarding-id": "Пересылка заказов",
+  "forwarding-id-placeholder": "Добавить ID",
+  "tooltip-text": "Определяет, куда будет отправлена информация о новом заказе",
+  "button-text": "Сохранить"
+}

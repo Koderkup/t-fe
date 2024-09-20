@@ -1,0 +1,44 @@
+{
+  "categories-page.empty-placeholder": {
+    "title-part-1": "Get started:",
+    "title-part-2": "create categories",
+    "title-part-3": "and",
+    "title-part-4": "add products",
+    "description": "Organize your store to make it easier for customers to find what they're looking for",
+    "button-text": "Add category"
+  },
+
+  "categories-page.preview": {
+    "title": "Categories",
+    "button-text": "Add category"
+  },
+
+  "create-category-page": {
+    "title": "Create category",
+    "name": "Category name",
+    "name-placeholder": "Enter category name",
+    "description": "Description",
+    "description-placeholder": "Describe category",
+    "button-text": "Add category"
+  },
+
+  "category-page": {
+    "title": "Products",
+    "add-product-text": "Add product",
+    "add-subcategory-text": "Add subcategory"
+  },
+
+  "create-subcategory-page": {
+    "title": "Create subcategory",
+    "name": "Subcategory name",
+    "name-placeholder": "Enter subcategory name",
+    "parent-category": "Parent category",
+    "description": "Description",
+    "description-placeholder": "Describe subcategory",
+    "button-text": "Add subcategory"
+  },
+  "delete-modal": {
+    "cancel": "Cancel",
+    "delete-category": "Delete Category"
+  }
+}

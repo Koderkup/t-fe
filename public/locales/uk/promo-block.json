@@ -1,0 +1,31 @@
+{
+  "promo-block-page": {
+    "title": "Редагування промо-блоку",
+    "button-text": "Зберегти",
+    "delete-button-text": "Видалити промо-блок"
+  },
+
+  "promo-blocks-page": {
+    "title": "Промо-блоки",
+    "button-text": "Додати промо-блок"
+  },
+
+  "create-promo-block-page": {
+    "title": "Створіть промо-блок",
+    "button-text": "Створити"
+  },
+
+  "promo-block-form": {
+    "title": "Назва",
+    "title-placeholder": "Введіть назву",
+    "description": "Опис",
+    "description-placeholder": "Опишіть промо-блок",
+    "promo-text": "Промо-текст",
+    "promo-text-placeholder": "Введіть текст",
+    "link": "Посилання на товар",
+    "link-placeholder": "наприклад, www.promourl.com",
+    "media": "Медіа",
+    "media-button-text": "Додати медіа",
+    "activate": "Активуйте"
+  }
+}

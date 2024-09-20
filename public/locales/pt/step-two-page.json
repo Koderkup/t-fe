@@ -1,0 +1,44 @@
+{
+  "step-two-page": {
+    "step": "Etapa",
+    "title": "Selecione /design visual/ para o seu aplicativo",
+    "placeholder": "Buscar"
+  },
+
+  "design-settings-page": {
+    "appearance": "Aparência",
+    "explain-text": "Personalize alguns aspectos do estilo visual para adaptar ainda mais o aplicativo à sua marca",
+    "form": {
+      "theme-inputs": {
+        "label": "Modo",
+        "input-one": {
+          "title": "Claro",
+          "description": "O tema estará sempre no modo claro"
+        },
+        "input-two": {
+          "title": "Escuro",
+          "description": "O tema estará sempre no modo escuro"
+        },
+        "input-three": {
+          "title": "Automático",
+          "description": "O tema corresponderá ao tema do sistema operacional"
+        }
+      },
+      "colors-input": "Cor de destaque",
+      "font-input": "Fonte",
+      "tex-size-input": "Tamanho do texto",
+      "submit-button": "Adicionar por {{price}}"
+    }
+  },
+
+  "font-type-selection-page": {
+    "title": "Selecione uma fonte"
+  },
+
+  "design-tags": {
+    "bright": "Brilhante",
+    "light": "Luz",
+    "classic": "Clássico",
+    "minimalism": "Minimalismo"
+  }
+}

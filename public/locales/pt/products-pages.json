@@ -1,0 +1,91 @@
+{
+  "products-page.empty-placeholder": {
+    "title": "Adicionar o seu primeiro produto",
+    "description": "Comece a criar o seu inventário adicionando informações detalhadas sobre o seu produto, incluindo imagens, descrições e preços",
+    "button-text": "Adicionar produto"
+  },
+
+  "products-page.overview": {
+    "title": "Produtos",
+    "all-category": "Todos",
+    "button-text": "Adicionar produto"
+  },
+
+  "create-product-page": {
+    "title": "Adicionar produto",
+    "name": "Nome do produto",
+    "name-placeholder": "Digite o nome do produto",
+    "name-error": "Introduzir o nome do produto",
+    "description-short": "Breve descrição (para o cartão do produto)",
+    "description-short-error": "Por favor, adicione uma breve descrição",
+    "description-full": "Descrição completa (para a página do produto)",
+    "description-full-error": "Adicionar descrição completa",
+    "description-placeholder": "Descrever o produto",
+    "category": "Categoria",
+    "category-placeholder": "Escolha a opção",
+    "media": "Mídia",
+    "media-button-text": "Adicionar mídia",
+    "featured": "Marcar como destaque",
+    "price": "Preço",
+    "label": "Rótulo",
+    "attributes": "Atributos",
+    "attributes-button-text": "Adicionar atributo",
+    "add-button-text": "Adicionar produto",
+    "labelsPreset": {
+      "last-chance": "última oportunidade",
+      "sale": "venda",
+      "new": "novo"
+    }
+  },
+
+  "attribute-modal": {
+    "title": "Adicionar atributo",
+    "form": {
+      "name": {
+        "label": "Nome do atributo",
+        "options": {
+          "color": "Cor",
+          "size": "Tamanho"
+        }
+      },
+      "feature": {
+        "label": "Caraterística",
+        "placeholder": "Introduzir caraterística de atributo"
+      },
+      "extraCharge": {
+        "label": "Custo adicional",
+        "placeholder": "Adicionar custo extra"
+      },
+      "description": {
+        "label": "Descrição",
+        "placeholder": "Descrever o atribuott"
+      },
+      "hexCode": {
+        "label": "Código Hex",
+        "placeholder": "Insira o código de cor Hex"
+      },
+      "option": "Opção",
+      "in-stock": "Em stock",
+      "error-text": "Este atributo já existe",
+      "color-error": "Código de cor HEX inválido"
+    },
+    "action-buttons": {
+      "save": "Guardar",
+      "save-changes": "Guardar alterações",
+      "delete-attribute": "Eliminar atributo",
+      "add-option": "Adicionar opção",
+      "delete-option": "Eliminar opção"
+    }
+  },
+
+  "delete-modal": {
+    "title": "Excluir este rótulo?",
+    "text": "Se você excluir este rótulo, ele será removido de todos os cartões de produtos.",
+    "button-actions": {
+      "delete": "Excluir",
+      "cancel": "Cancelar"
+    }
+  },
+
+  "product-page": "Editar produto"
+}

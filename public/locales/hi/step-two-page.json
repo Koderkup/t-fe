@@ -1,0 +1,44 @@
+{
+  "step-two-page": {
+    "step": "चरण",
+    "title": "अपने एप्लिकेशन के लिए /विज़ुअल डिज़ाइन/ चुनें",
+    "placeholder": "खोजें"
+  },
+
+  "design-settings-page": {
+    "appearance": "दिखावट",
+    "explain-text": "एप्लिकेशन को आपके ब्रांड के अनुसार और अधिक अनुकूलित करने के लिए दृश्य शैली के कुछ पहलुओं को अनुकूलित करें",
+    "form": {
+      "theme-inputs": {
+        "label": "मोड",
+        "input-one": {
+          "title": "प्रकाश",
+          "description": "थीम हमेशा प्रकाश मोड में होगी"
+        },
+        "input-two": {
+          "title": "अंधेरा",
+          "description": "थीम हमेशा अंधेरे मोड में होगी"
+        },
+        "input-three": {
+          "title": "स्वचालित",
+          "description": "थीम ऑपरेटिंग सिस्टम की थीम का पालन करेगी"
+        }
+      },
+      "colors-input": "हाइलाइट रंग",
+      "font-input": "फ़ॉन्ट",
+      "tex-size-input": "पाठ का आकार",
+      "submit-button": "{{price}} के लिए जोड़ें"
+    }
+  },
+
+  "font-type-selection-page": {
+    "title": "फ़ॉन्ट चुनें"
+  },
+
+  "design-tags": {
+    "bright": "चमकदार",
+    "light": "रोशनी",
+    "classic": "क्लासिक",
+    "minimalism": "अतिसूक्ष्मवाद"
+  }
+}

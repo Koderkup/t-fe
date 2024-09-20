@@ -1,0 +1,37 @@
+{
+  "ad-block-page": {
+    "title": "Edit ad block",
+    "button-text": "Save",
+    "delete-button-text": "Delete ad block"
+  },
+
+  "ad-blocks-page": {
+    "title": "Ad blocks",
+    "button-text": "Add ad block"
+  },
+
+  "create-ad-block-page": {
+    "title": "Create ad block",
+    "button-text": "Create"
+  },
+
+  "ad-block-form": {
+    "promo-title": "Promo title",
+    "promo-title-placeholder": "Enter promo title",
+    "promo-link": "Promo link",
+    "promo-link-placeholder": "Enter name for promo link",
+    "promo-url": "Promo url",
+    "promo-url-placeholder": "e.g. www.promourl.com",
+    "media": "Media",
+    "media-button-text": "Add media",
+    "title": "Title",
+    "title-placeholder": "Enter title",
+    "description": "Description",
+    "description-placeholder": "Describe ad block",
+    "button-text": "Button text",
+    "button-text-placeholder": "Enter button text",
+    "button-url": "Button URL",
+    "button-url-placeholder": "e.g. www.promourl.com",
+    "activate": "Activate"
+  }
+}

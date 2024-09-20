@@ -1,0 +1,44 @@
+{
+  "step-two-page": {
+    "step": "步骤",
+    "title": "为您的应用选择 / 可视化",
+    "placeholder": "搜索"
+  },
+
+  "design-settings-page": {
+    "appearance": "外观",
+    "explain-text": "自定义视觉风格的一些方面，以进一步适应您的品牌",
+    "form": {
+      "theme-inputs": {
+        "label": "模式",
+        "input-one": {
+          "title": "浅色",
+          "description": "主题将始终为浅色模式"
+        },
+        "input-two": {
+          "title": "深色",
+          "description": "主题将始终为深色模式"
+        },
+        "input-three": {
+          "title": "自动",
+          "description": "主题将跟随操作系统的主题"
+        }
+      },
+      "colors-input": "突出颜色",
+      "font-input": "字体",
+      "tex-size-input": "文本大小",
+      "submit-button": "添加，价格为 {{price}}"
+    }
+  },
+
+  "font-type-selection-page": {
+    "title": "选择字体"
+  },
+
+  "design-tags": {
+    "bright": "明亮",
+    "light": "灯光",
+    "classic": "经典",
+    "minimalism": "极简主义"
+  }
+}

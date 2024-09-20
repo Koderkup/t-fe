@@ -1,0 +1,27 @@
+@layer base {
+  :root {
+    --white: #fff;
+    --black: #000;
+    --main-black: #2d3242;
+    --main-bg: #f7f8fa;
+    --stroke: #dce4e6;
+
+    --gray-10: #575a65;
+
+    --black-100: #3d3f45;
+    --black-90: #36404d;
+    --black-80: #465263;
+    --black-70: #697380;
+    --black-60: #8c949e;
+    --black-50: #b0b4bb;
+    --black-40: #d3d5d9;
+    --black-30: #f6f6f6;
+    --black-20: #575b68;
+    --black-10: #efeff0;
+    --red: #f02525;
+
+    --error: #e25c5c;
+    --error-light: #fff7f7;
+    --success: #34c759;
+  }
+}

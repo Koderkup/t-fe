@@ -1,0 +1,22 @@
+{
+  "page-title": "Shop settings",
+  "inputs": {
+    "media-block": {
+      "label": "Shop image",
+      "placeholder": "Add media"
+    },
+    "name": "Shop name*",
+    "bot-token": "Bot token*",
+    "description": "Description",
+    "country": "Country*",
+    "currency*": "Currency*",
+    "search": "Search",
+    "select-placeholder": "Select a {{inputName}}",
+    "input-placeholder": "Enter a {{inputName}}"
+  },
+  "modals": {
+    "country-modal": "Select country",
+    "currency-modal": "Select currency"
+  },
+  "button-text": "Save"
+}

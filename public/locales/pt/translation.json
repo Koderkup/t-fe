@@ -1,0 +1,77 @@
+{
+  "home-page.navigation": {
+    "main": "Principal",
+    "settings": "Definições",
+    "categories": "Categorias",
+    "products": "Produtos",
+    "orders": "Encomendas",
+    "newsletters": "Boletim informativo",
+    "payment": "Pagamento",
+    "bot-settings": "Definições do bot",
+    "order-settings": "Definições da encomenda",
+    "ad-block": "Bloco de anúncios",
+    "promo-codes": "Códigos promocionais",
+    "promo-block": "Bloco promocional"
+  },
+  "action-sheet.actions": {
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "continue": "Continuar"
+  },
+  "dropdown-menu": {
+    "selected": "Selecionado:",
+    "items": "Itens",
+    "item": "Item",
+    "menu-actions": {
+      "menu-open": "Ver detalhes",
+      "close-menu": "Ocultar detalhes",
+      "remove-feature": "Remover"
+    },
+    "features": {
+      "visual-design": "Design visual"
+    }
+  },
+  "control-panel": {
+    "create-app": "Criar uma aplicação",
+    "administrate": "Administrar",
+    "app-settings": "Definições da aplicação"
+  },
+  "example-text": "Embala a minha caixa com cinco dúzias de garrafas de licor.",
+  "languages-modal": {
+    "title": "Selecionar a língua",
+    "input-placeholder": "Pesquisar",
+    "zh": "Chinês",
+    "en": "Inglês",
+    "hi": "Hindi",
+    "pt": "Portuguese",
+    "uk": "Ucraniano",
+    "ru": "Russo"
+  },
+  "app-settings-page": {
+    "page-title": "Definições",
+    "balance": "Equilíbrio de moedas Tapply",
+    "phone-number": "Número de telefone",
+    "name": "Nome",
+    "last-name": "Apelido",
+    "last-name-placeholder": "Segundo nome",
+    "language": "Língua*",
+    "language-placeholder": "Selecionar opção"
+  },
+  "coupon-modal": {
+    "title": "Parabéns!",
+    "description": "Acabou de desbloquear um cupão para 100 TapplyCoins",
+    "button-text": "Obter"
+  },
+  "error-messages": {
+    "required": "Este campo é obrigatório",
+    "email": "Formato de correio eletrónico inválido",
+    "phoneNumber": "Formato de número de telefone inválido"
+  },
+  "administrate-page": {
+    "title": "Administração da loja",
+    "description": {
+      "part-1": "Aqui pode ver todas as lojas",
+      "part-2": "que estão sob a sua administração"
+    }
+  }
+}

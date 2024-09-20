@@ -1,0 +1,10 @@
+.tooltip-container {
+  & .my-tooltip {
+    border-radius: 12px;
+    padding: 9px 16px;
+    width: 260px;
+    height: fit-content;
+    backdrop-filter: blur(10px);
+    background: rgba(45, 50, 66, 0.5);
+  }
+}

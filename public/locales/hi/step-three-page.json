@@ -1,0 +1,14 @@
+{
+  "additional-feature-page": {
+    "title": "अपने एप्लिकेशन के लिए /अतिरिक्त सुविधाएं/ चुनें"
+  },
+
+  "payment-method-page": {
+    "payment": "भुगतान",
+    "add": "जोड़ना"
+  },
+
+  "feature-page": {
+    "add-for": "{{price}} में जोड़ें"
+  }
+}

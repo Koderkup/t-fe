@@ -1,0 +1,37 @@
+{
+  "ad-block-page": {
+    "title": "编辑广告块",
+    "button-text": "节省",
+    "delete-button-text": "删除广告块"
+  },
+
+  "ad-blocks-page": {
+    "title": "广告块",
+    "button-text": "添加广告块"
+  },
+
+  "create-ad-block-page": {
+    "title": "创建广告块",
+    "button-text": "创建"
+  },
+
+  "ad-block-form": {
+    "promo-title": "宣传标题",
+    "promo-title-placeholder": "输入促销标题",
+    "promo-link": "促销链接",
+    "promo-link-placeholder": "输入促销链接名称",
+    "promo-url": "促销网址",
+    "promo-url-placeholder": "例如：www.promourl.com",
+    "media": "媒体",
+    "media-button-text": "添加媒体",
+    "title": "标题",
+    "title-placeholder": "输入标题",
+    "description": "说明",
+    "description-placeholder": "描述广告屏蔽",
+    "button-text": "按钮文本",
+    "button-text-placeholder": "输入按钮文本",
+    "button-url": "按钮 URL",
+    "button-url-placeholder": "例如：www.promourl.com",
+    "activate": "激活"
+  }
+}

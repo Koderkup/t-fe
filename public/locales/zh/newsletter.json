@@ -1,0 +1,27 @@
+{
+  "no-newsletter": {
+    "title": "有效溝通",
+    "description": "傳送個人化訊息給您的客戶，分享新聞、促銷活動和最新消息。使用我們的工具創造吸引人的內容，讓您的受眾保持興趣並獲得資訊",
+    "button-text": "開始郵寄"
+  },
+  "create-newsletter": {
+    "title": "建立新郵件",
+    "description": "您商店的訂閱者將可看到此訊息",
+    "media-label": "照片",
+    "media-placeholder": "新增照片",
+    "message": "訊息",
+    "message-placeholder": "寫訊息",
+    "button-text": "發送",
+    "button-text-2": "再试一次"
+  },
+  "newsletter-history": {
+    "title": "郵寄",
+    "description": "在這裡，您可以看到過去一段時間內您傳送過的所有訊息。",
+    "button-text": "新訊息",
+    "modal-text": "已傳送訊息",
+    "status": {
+      "sent": "已发送信息",
+      "pending": "未发送信息"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "categories-page.empty-placeholder": {
+    "title-part-1": "Начните:",
+    "title-part-2": "создавать категории",
+    "title-part-3": "и",
+    "title-part-4": "добавлять продукты",
+    "description": "Организуйте свой магазин, чтобы покупателям было проще найти то, что они ищут",
+    "button-text": "Добавить категорию"
+  },
+
+  "categories-page.preview": {
+    "title": "Категории",
+    "button-text": "Добавить категорию"
+  },
+
+  "create-category-page": {
+    "title": "Создать категорию",
+    "name": "Название категории",
+    "name-placeholder": "Введите название категории",
+    "description": "Описание",
+    "description-placeholder": "Опишите категорию",
+    "button-text": "Добавить категорию"
+  },
+
+  "category-page": {
+    "title": "Товары",
+    "add-product-text": "Добавить товар",
+    "add-subcategory-text": "Добавить подкатегорию"
+  },
+
+  "create-subcategory-page": {
+    "title": "Создать подкатегорию",
+    "name": "Название подкатегории",
+    "name-placeholder": "Введите название подкатегории",
+    "parent-category": "Родительская категория",
+    "description": "Описание",
+    "description-placeholder": "Опишите подкатегорию",
+    "button-text": "Добавить подкатегорию"
+  },
+  "delete-modal": {
+    "cancel": "Отмена",
+    "delete-category": "Удалить категорию"
+  }
+}

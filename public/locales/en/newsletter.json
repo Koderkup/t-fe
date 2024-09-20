@@ -1,0 +1,27 @@
+{
+  "no-newsletter": {
+    "title": "Communicate Effectively",
+    "description": "Send personalized messages to your customers to share news, promotions, and updates. Use our tools to create engaging content that keeps your audience interested and informed",
+    "button-text": "Start mailing"
+  },
+  "create-newsletter": {
+    "title": "Create new mailing",
+    "description": "This message will be visible to subscribers of your store",
+    "media-label": "Photo",
+    "media-placeholder": "Add photo",
+    "message": "Message",
+    "message-placeholder": "Write a message",
+    "button-text": "Send",
+    "button-text-2": "Try again"
+  },
+  "newsletter-history": {
+    "title": "Mailing",
+    "description": "Here you can see all the messages that you have sent over time.",
+    "button-text": "New message",
+    "modal-text": "Message sent",
+    "status": {
+      "sent": "Message sent",
+      "pending": "Message not sent"
+    }
+  }
+}

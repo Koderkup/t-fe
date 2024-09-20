@@ -1,0 +1,10 @@
+{
+  "title": "भुगतान प्रणाली",
+  "crypto-input": "क्रिप्टो",
+  "fiat-input": "व्यवस्थापत्र",
+  "crypto-input-placeholder": "क्रिप्टो सिस्टम चुनें",
+  "fiat-input-placeholder": "फ़िएट सिस्टम चुनें",
+  "modal-crypto-title": "क्रिप्टो भुगतान विधियों का चयन करें",
+  "modal-fiat-title": "फ़िएट भुगतान विधियाँ चुनें",
+  "modal-button": "बचाना"
+}

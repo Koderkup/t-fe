@@ -1,0 +1,9 @@
+{
+  "title": "Налаштування замовлення",
+  "min-order-amount": "Мінімальна сума замовлення",
+  "min-order-amount-with-delivery": "Мінімальне замовлення з доставкою",
+  "forwarding-id": "Пересилання замовлень",
+  "forwarding-id-placeholder": "Додати ID",
+  "tooltip-text": "Визначає, куди буде надіслано нову інформацію про замовлення",
+  "button-text": "Зберегти"
+}

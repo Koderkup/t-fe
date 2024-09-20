@@ -1,0 +1,27 @@
+{
+  "no-newsletter": {
+    "title": "Comunicar eficazmente",
+    "description": "Envie mensagens personalizadas aos seus clientes para partilhar notícias, promoções e actualizações. Utilize as nossas ferramentas para criar conteúdos apelativos que mantenham o seu público interessado e informado",
+    "button-text": "Iniciar o envio de correio"
+  },
+  "create-newsletter": {
+    "title": "Criar nova correspondência",
+    "description": "Esta mensagem será visível para os subscritores da sua loja",
+    "media-label": "Fotografia",
+    "media-placeholder": "Adicionar foto",
+    "message": "Mensagem",
+    "message-placeholder": "Escrever uma mensagem",
+    "button-text": "Enviar",
+    "button-text-2": "Tentar novamente"
+  },
+  "newsletter-history": {
+    "title": "Envio de correio",
+    "description": "Aqui pode ver todas as mensagens que enviou ao longo do tempo.",
+    "button-text": "Nova mensagem",
+    "modal-text": "Mensagem enviada",
+    "status": {
+      "sent": "Mensagem enviada",
+      "pending": "Mensagem não enviada"
+    }
+  }
+}

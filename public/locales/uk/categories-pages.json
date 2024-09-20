@@ -1,0 +1,44 @@
+{
+  "categories-page.empty-placeholder": {
+    "title-part-1": "Почніть:",
+    "title-part-2": "створювати категорії",
+    "title-part-3": "и",
+    "title-part-4": "додавати продукти",
+    "description": "Організуйте свій магазин, щоб покупцям було простіше знайти те, що вони шукають",
+    "button-text": "Додати категорію"
+  },
+
+  "categories-page.preview": {
+    "title": "Категорії",
+    "button-text": "Додати категорію"
+  },
+
+  "create-category-page": {
+    "title": "Створити категорію",
+    "name": "Назва категорії",
+    "name-placeholder": "Введіть назву категорії",
+    "description": "Опис",
+    "description-placeholder": "Опишіть категорію",
+    "button-text": "Додати категорію"
+  },
+
+  "category-page": {
+    "title": "Товари",
+    "add-product-text": "Додати товар",
+    "add-subcategory-text": "Додати підкатегорію"
+  },
+
+  "create-subcategory-page": {
+    "title": "Створити підкатегорію",
+    "name": "Назва підкатегорії",
+    "name-placeholder": "Введіть назву підкатегорії",
+    "parent-category": "Батьківська категорія",
+    "description": "Опис",
+    "description-placeholder": "Опишіть підкатегорію",
+    "button-text": "Додати підкатегорію"
+  },
+  "delete-modal": {
+    "cancel": "Скасування",
+    "delete-category": "Видалити категорію"
+  }
+}

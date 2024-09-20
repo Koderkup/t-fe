@@ -1,0 +1,9 @@
+{
+  "title": "ऑर्डर सेटिंग",
+  "min-order-amount": "न्यूनतम आदेश राशि",
+  "min-order-amount-with-delivery": "डिलीवरी के साथ न्यूनतम ऑर्डर",
+  "forwarding-id": "अग्रेषित आदेश",
+  "forwarding-id-placeholder": "आईडी जोड़ें",
+  "tooltip-text": "निर्धारित करता है कि नए ऑर्डर की जानकारी कहाँ भेजी जाएगी",
+  "button-text": "बचाना"
+}

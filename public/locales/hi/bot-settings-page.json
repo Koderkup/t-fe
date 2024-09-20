@@ -1,0 +1,22 @@
+{
+  "page-title": "बॉट सेटिंग्स",
+  "options": {
+    "option-1": "स्वागत संदेश",
+    "option-2": "आदेश पुष्टिकरण संदेश"
+  },
+  "welcome-message-modal": {
+    "title": "स्वागत संदेश",
+    "form": {
+      "media-input": {
+        "placeholder": "मीडिया जोड़ो",
+        "label": "तस्वीर"
+      },
+      "text-input": {
+        "placeholder": "संदेश लिखना",
+        "label": "मूलपाठ"
+      }
+    }
+  },
+  "order-confirmation-modal": "आदेश की पुष्टि",
+  "button-text": "बचाना"
+}

@@ -1,0 +1,40 @@
+{
+  "order-history-page": {
+    "title": "订购历史",
+    "link-text": "查看详情"
+  },
+  "order-details-page": {
+    "title": "订购 #{{orderNumber}}",
+    "info-list": {
+      "order-date": "订购日期:",
+      "customer-name": "客户名称:",
+      "customer-number": "客户编号:",
+      "delivery-address": "送货地址:",
+      "payment": "付款方式:",
+      "status": "现状:"
+    },
+    "price-info": {
+      "subtotal": "小计",
+      "discount": "折扣",
+      "delivery": "送货"
+    },
+    "button-text": "更改状态"
+  },
+  "status-modal": {
+    "cancel": "取消",
+    "title": "选择状态",
+    "button-text": "设置状态"
+  },
+  "quantity": "数量",
+  "total": "总计",
+  "status-variants": {
+    "pending": "待定",
+    "paid": "付讫",
+    "confirmed": "确认",
+    "shipped": "运到",
+    "delivered": "交付",
+    "cancelled": "已取消"
+  },
+
+  "data-placeholder": "还没有订单"
+}

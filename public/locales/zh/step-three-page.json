@@ -1,0 +1,14 @@
+{
+  "additional-feature-page": {
+    "title": "为您的应用程序选择 / 附加功能"
+  },
+
+  "payment-method-page": {
+    "payment": "付款方式",
+    "add": "添加"
+  },
+
+  "feature-page": {
+    "add-for": "加 {{price}}"
+  }
+}

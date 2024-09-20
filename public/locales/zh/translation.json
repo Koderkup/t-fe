@@ -1,0 +1,77 @@
+{
+  "home-page.navigation": {
+    "main": "主页",
+    "settings": "设置",
+    "categories": "类别",
+    "products": "产品",
+    "orders": "订单",
+    "newsletters": "通讯",
+    "payment": "付款方式",
+    "bot-settings": "机器人设置",
+    "order-settings": "订单设置",
+    "ad-block": "广告块",
+    "promo-codes": "促销代码",
+    "promo-block": "促销区块"
+  },
+  "action-sheet.actions": {
+    "edit": "编辑",
+    "delete": "删除",
+    "continue": "继续"
+  },
+  "dropdown-menu": {
+    "selected": "已选:",
+    "items": "项目",
+    "item": "项目",
+    "menu-actions": {
+      "menu-open": "查看详情",
+      "close-menu": "隐藏详情",
+      "remove-feature": "移除"
+    },
+    "features": {
+      "visual-design": "视觉设计"
+    }
+  },
+  "control-panel": {
+    "create-app": "创建应用程序",
+    "administrate": "行政管理",
+    "app-settings": "應用程式設定"
+  },
+  "example-text": "给我的箱子装上五打酒壶。",
+  "languages-modal": {
+    "title": "選擇語言",
+    "input-placeholder": "搜尋",
+    "zh": "中文",
+    "en": "英語",
+    "hi": "北印度語",
+    "pt": "葡萄牙語",
+    "uk": "烏克蘭",
+    "ru": "俄語"
+  },
+  "app-settings-page": {
+    "page-title": "平衡",
+    "balance": "Tapply 硬幣平衡",
+    "phone-number": "电话号码",
+    "name": "名称",
+    "last-name": "姓氏",
+    "last-name-placeholder": "第二个名字",
+    "language": "語言*",
+    "language-placeholder": "選擇選項"
+  },
+  "coupon-modal": {
+    "title": "恭喜你",
+    "description": "您剛剛解鎖了 100 TapplyCoins 的優惠券",
+    "button-text": "取得它"
+  },
+  "error-messages": {
+    "required": "此栏必须填写",
+    "email": "电子邮件格式无效",
+    "phoneNumber": "电话号码格式无效"
+  },
+  "administrate-page": {
+    "title": "商店管理员",
+    "description": {
+      "part-1": "您可以查看所有商店",
+      "part-2": "在您管理下的"
+    }
+  }
+}

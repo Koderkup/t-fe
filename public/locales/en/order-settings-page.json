@@ -1,0 +1,9 @@
+{
+  "title": "Order settings",
+  "min-order-amount": "Minimum order amount",
+  "min-order-amount-with-delivery": "Minimum order with delivery",
+  "forwarding-id": "Forwarding orders",
+  "forwarding-id-placeholder": "Add ID",
+  "tooltip-text": "Determines where new order information will be sent",
+  "button-text": "Save"
+}

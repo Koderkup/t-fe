@@ -1,0 +1,35 @@
+{
+  "page-title": "How would you like /to pay?",
+  "all-items": "All items",
+  "action": "Pay",
+  "total": "Total",
+  "link-text": "What is TaplyCoin?",
+  "payment-methods": {
+    "title": "Payment method",
+    "stripe": {
+      "description": "Transactions using credit or debit cards"
+    },
+    "ton": {
+      "description": "With each transaction users also receive TapplyCoin"
+    }
+  },
+  "tapply-coin-page": {
+    "description": "With each transaction via TON, users also receive TapplyCoin — branded tokens that can be used within the application to gain access to exclusive designs, discounts and other unique features.",
+    "list-title": "These tokens can be used for:",
+    "usage-text": {
+      "first": "Purchases of special designs that are not available for standard purchase",
+      "second": "Receive discounts on future updates or additional features.",
+      "third": "Participation in exclusive promotions and offers available only to TapplyCoin owners."
+    }
+  },
+  "payment-confirmation": {
+    "page-title": "Congratulations! New app purchased",
+    "page-description": "We wish you success in your business. We are confident that your new app will contribute to its growth and prosperity.",
+    "page-cell": "The next steps for managing the application will be sent to you shortly",
+    "link": {
+      "text": "Do you have any questions?",
+      "href": "Contact us"
+    },
+    "button-text": "Back to Home page"
+  }
+}

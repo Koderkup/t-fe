@@ -1,0 +1,44 @@
+{
+  "step-two-page": {
+    "step": "Шаг",
+    "title": "Выберите /визуальный дизайн/ для вашего приложения",
+    "placeholder": "Поиск"
+  },
+
+  "design-settings-page": {
+    "appearance": "Внешний вид",
+    "explain-text": "Настройте некоторые аспекты визуального стиля, чтобы еще больше адаптировать приложение к вашему бренду",
+    "form": {
+      "theme-inputs": {
+        "label": "Режим",
+        "input-one": {
+          "title": "Светлая",
+          "description": "Тема будет всегда в светлом режиме"
+        },
+        "input-two": {
+          "title": "Тёмная",
+          "description": "Тема будет всегда в темном режиме"
+        },
+        "input-three": {
+          "title": "Автоматический",
+          "description": "Тема будет соответствовать теме операционной системы"
+        }
+      },
+      "colors-input": "Цвет выделения",
+      "font-input": "Шрифт",
+      "tex-size-input": "Размер текста",
+      "submit-button": "Добавить за {{price}}"
+    }
+  },
+
+  "font-type-selection-page": {
+    "title": "Выберите шрифт"
+  },
+
+  "design-tags": {
+    "bright": "Яркий",
+    "light": "Свет",
+    "classic": "Классика",
+    "minimalism": "Минимализм"
+  }
+}

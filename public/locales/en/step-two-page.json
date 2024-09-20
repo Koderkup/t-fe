@@ -1,0 +1,44 @@
+{
+  "step-two-page": {
+    "step": "Step",
+    "title": "Select /visual design/ for your application",
+    "placeholder": "Search"
+  },
+
+  "design-settings-page": {
+    "appearance": "Appearance",
+    "explain-text": "Customize some aspects of the visual style to further adapt the app to your brand",
+    "form": {
+      "theme-inputs": {
+        "label": "Mode",
+        "input-one": {
+          "title": "Light",
+          "description": "Theme will be always in light mode"
+        },
+        "input-two": {
+          "title": "Dark",
+          "description": "Theme will be always in dark mode"
+        },
+        "input-three": {
+          "title": "Automatic",
+          "description": "Theme will follow the operating system theme"
+        }
+      },
+      "colors-input": "Highlight color",
+      "font-input": "Font",
+      "tex-size-input": "Text Size",
+      "submit-button": "Add for {{price}}"
+    }
+  },
+
+  "font-type-selection-page": {
+    "title": "Select a font"
+  },
+
+  "design-tags": {
+    "bright": "Bright",
+    "light": "Light",
+    "classic": "Classic",
+    "minimalism": "Minimalism"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "訂單設定",
+  "min-order-amount": "最低訂購金額",
+  "min-order-amount-with-delivery": "最低訂購量（含送貨",
+  "forwarding-id": "轉運訂單",
+  "forwarding-id-placeholder": "新增 ID",
+  "tooltip-text": "決定新訂單資訊的傳送位置",
+  "button-text": "節省"
+}

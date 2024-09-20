@@ -1,0 +1,36 @@
+.design-serch-input {
+  &__control {
+    @apply h-12 rounded-[20px] border border-black_30 bg-search bg-[95%] bg-no-repeat px-2 text-start text-main_black hover:shadow-none #{!important};
+    &--is-focused {
+      @apply shadow-none hover:shadow-none #{!important};
+    }
+
+    &--menu-is-open {
+      @apply shadow-none #{!important};
+    }
+  }
+
+  &__placeholder {
+    @apply text-[#7e8089] #{!important};
+  }
+
+  &__indicator {
+    @apply hidden #{!important};
+  }
+
+  &__indicator-separator {
+    @apply hidden #{!important};
+  }
+
+  &__menu {
+    @apply z-10 hidden rounded-none bg-transparent text-start font-bold shadow-none #{!important};
+
+    &-notice {
+      @apply font-medium #{!important};
+    }
+  }
+
+  &__multi-value {
+    @apply rounded-[10px] px-1 #{!important};
+  }
+}

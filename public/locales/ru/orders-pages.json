@@ -1,0 +1,40 @@
+{
+  "order-history-page": {
+    "title": "История заказов",
+    "link-text": "Посмотреть детали"
+  },
+  "order-details-page": {
+    "title": "Заказ #{{orderNumber}}",
+    "info-list": {
+      "order-date": "Дата заказа:",
+      "customer-name": "Имя клиента:",
+      "customer-number": "Номер клиента:",
+      "delivery-address": "Адрес доставки:",
+      "payment": "Оплата:",
+      "status": "Статус:"
+    },
+    "price-info": {
+      "subtotal": "Итого",
+      "discount": "Скидка",
+      "delivery": "Доставка"
+    },
+    "button-text": "Изменить статус"
+  },
+  "status-modal": {
+    "cancel": "Отмена",
+    "title": "Выберите статус",
+    "button-text": "Установить статус"
+  },
+  "quantity": "Количество",
+  "total": "Всего",
+  "status-variants": {
+    "pending": "В ожидании",
+    "paid": "Оплачено",
+    "confirmed": "Подтверждено",
+    "shipped": "Отправлено",
+    "delivered": "Доставлено",
+    "cancelled": "Отменено"
+  },
+
+  "data-placeholder": "Заказов пока нет!"
+}

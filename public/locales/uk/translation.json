@@ -1,0 +1,77 @@
+{
+  "home-page.navigation": {
+    "main": "Головна",
+    "settings": "Налаштування",
+    "categories": "Категорії",
+    "products": "Товари",
+    "orders": "Замовлення",
+    "newsletters": "Розсилка",
+    "payment": "Оплата",
+    "bot-settings": "Налаштування бота",
+    "order-settings": "Налаштування замовлення",
+    "ad-block": "Рекламний блок",
+    "promo-codes": "Промокоди",
+    "promo-block": "Промо блок"
+  },
+  "action-sheet.actions": {
+    "edit": "Редагувати",
+    "delete": "Видалити",
+    "continue": "Продовжити"
+  },
+  "dropdown-menu": {
+    "selected": "Доданий:",
+    "items": "Товари",
+    "item": "Товар",
+    "menu-actions": {
+      "menu-open": "Дивитися подробиці",
+      "close-menu": "Приховати подробиці",
+      "remove-feature": "Прибрати"
+    },
+    "features": {
+      "visual-design": "Візуальний дизайн"
+    }
+  },
+  "control-panel": {
+    "create-app": "Створіть додаток",
+    "administrate": "Адмініструвати",
+    "app-settings": "Налаштування програми"
+  },
+  "example-text": "Упакуйте мій ящик п'ятьма дюжинами глечиків із лікером.",
+  "languages-modal": {
+    "title": "Виберіть мову",
+    "input-placeholder": "Пошук",
+    "zh": "Китайська",
+    "en": "Англійська мова",
+    "hi": "Хінді",
+    "pt": "Португальська",
+    "uk": "Українська",
+    "ru": "Російська мова"
+  },
+  "app-settings-page": {
+    "page-title": "Налаштування",
+    "balance": "Баланс монет Tapply",
+    "phone-number": "Номер телефону",
+    "name": "Ім'я",
+    "last-name": "Прізвище",
+    "last-name-placeholder": "Прізвище",
+    "language": "Мова*",
+    "language-placeholder": "Виберіть варіант"
+  },
+  "coupon-modal": {
+    "title": "Вітаю!",
+    "description": "Ви щойно розблокували купон на 100 TapplyCoins",
+    "button-text": "Отримати"
+  },
+  "error-messages": {
+    "required": "Це поле обов'язкове для заповнення",
+    "email": "Неправильний формат електронної пошти",
+    "phoneNumber": "Неправильний формат номера телефону"
+  },
+  "administrate-page": {
+    "title": "Адміністрування магазинів",
+    "description": {
+      "part-1": "Тут ви можете переглянути всі магазини,",
+      "part-2": "які перебувають під вашим управлінням"
+    }
+  }
+}

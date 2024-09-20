@@ -1,0 +1,59 @@
+.select-shop-type {
+  &__control {
+    @apply h-12 rounded-[20px] border border-black_30 bg-search bg-[95%] bg-no-repeat px-2 text-start text-main_black hover:shadow-none #{!important};
+    &--is-focused {
+      @apply shadow-none hover:shadow-none #{!important};
+    }
+
+    &--menu-is-open {
+      @apply shadow-none #{!important};
+    }
+  }
+
+  &__placeholder {
+    @apply text-[#7e8089] #{!important};
+  }
+
+  &__indicator {
+    @apply hidden #{!important};
+  }
+
+  &__indicator-separator {
+    @apply hidden #{!important};
+  }
+
+  &__menu {
+    @apply z-10 rounded-none bg-transparent text-start font-bold shadow-none #{!important};
+
+    &-notice {
+      @apply font-medium #{!important};
+    }
+  }
+
+  &__group-heading {
+    @apply my-[0px] border-b border-solid border-[#efeff0] px-2 pb-3 pt-1 text-[16px] font-normal tracking-[0.01em] text-[#7e8089] #{!important};
+  }
+
+  &__menu-list {
+    @apply max-h-screen overflow-auto pb-[140px] pt-0 #{!important};
+
+    &::-webkit-scrollbar {
+      @apply w-[0px];
+    }
+    &::-webkit-scrollbar-track {
+      @apply bg-transparent #{!important};
+    }
+  }
+
+  &__option {
+    @apply border-b-[1px] border-solid border-[#efeff0] px-2 py-[12px] text-[16px] font-normal leading-[140%] tracking-[0.01em] text-main_black #{!important};
+
+    &--is-focused {
+      @apply bg-transparent #{!important};
+    }
+
+    &--is-selected {
+      @apply bg-transparent bg-select bg-[97%] bg-no-repeat #{!important};
+    }
+  }
+}

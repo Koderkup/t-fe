@@ -1,0 +1,22 @@
+{
+  "page-title": "商店设置",
+  "inputs": {
+    "media-block": {
+      "label": "商店图片",
+      "placeholder": "添加媒体"
+    },
+    "name": "商店名称*",
+    "bot-token": "机器人令牌*",
+    "description": "说明",
+    "country": "国家*",
+    "currency*": "货币*",
+    "search": "搜索",
+    "select-placeholder": "选择 {{inputName}",
+    "input-placeholder": "输入 {{inputName}"
+  },
+  "modals": {
+    "country-modal": "选择国家",
+    "currency-modal": "选择货币"
+  },
+  "button-text": "节省"
+}

@@ -1,0 +1,44 @@
+{
+  "step-two-page": {
+    "step": "Крок",
+    "title": "Оберіть /візуальний дизайн/ для вашої програми",
+    "placeholder": "Пошук"
+  },
+
+  "design-settings-page": {
+    "appearance": "Зовнішній вигляд",
+    "explain-text": "Налаштуйте деякі аспекти візуального стилю, щоб ще більше адаптувати додаток до вашого бренду",
+    "form": {
+      "theme-inputs": {
+        "label": "Режим",
+        "input-one": {
+          "title": "Світла",
+          "description": "Тема буде завжди у світлому режимі"
+        },
+        "input-two": {
+          "title": "Темна",
+          "description": "Тема буде завжди в темному режимі"
+        },
+        "input-three": {
+          "title": "Автоматичний",
+          "description": "Тема відповідатиме темі операційної системи"
+        }
+      },
+      "colors-input": "Колір виділення",
+      "font-input": "Шрифт",
+      "tex-size-input": "Розмір тексту",
+      "submit-button": "Додати за {{price}}"
+    }
+  },
+
+  "font-type-selection-page": {
+    "title": "Виберіть шрифт"
+  },
+
+  "design-tags": {
+    "bright": "Яскравий",
+    "light": "Світло",
+    "classic": "Класика",
+    "minimalism": "Мінімалізм"
+  }
+}

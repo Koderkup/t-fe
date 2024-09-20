@@ -1,0 +1,31 @@
+{
+  "promo-block-page": {
+    "title": "प्रोमो ब्लॉक संपादित करें",
+    "button-text": "बचाना",
+    "delete-button-text": "विज्ञापन ब्लॉक हटाएँ"
+  },
+
+  "promo-blocks-page": {
+    "title": "प्रोमो ब्लॉक",
+    "button-text": "प्रोमो ब्लॉक जोड़ें"
+  },
+
+  "create-promo-block-page": {
+    "title": "प्रोमो ब्लॉक बनाएं",
+    "button-text": "बनाएं"
+  },
+
+  "promo-block-form": {
+    "title": "शीर्षक",
+    "title-placeholder": "शीर्षक दर्ज करें",
+    "description": "विवरण",
+    "description-placeholder": "प्रोमो ब्लॉक का वर्णन करें",
+    "promo-text": "प्रोमो पाठ",
+    "promo-text-placeholder": "पाठ दर्ज करें",
+    "link": "आइटम लिंक",
+    "link-placeholder": "जैसे www.promorel.com",
+    "media": "मिडिया",
+    "media-button-text": "मीडिया जोड़ो",
+    "activate": "सक्रिय"
+  }
+}

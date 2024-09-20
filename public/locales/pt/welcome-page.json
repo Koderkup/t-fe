@@ -1,0 +1,23 @@
+{
+  "welcome-page": {
+    "title": "Bem-vindo ao",
+    "description": "Crie aplicações únicas para o seu negócio diretamente no Telegram com facilidade e conveniência",
+    "continue": "Continuar",
+    "skip": "Saltar",
+    "next": "Seguinte",
+    "get-started": "Começar a trabalhar",
+    "step": "Etapa",
+    "step-1-title": "Porque é que precisa do Tapply?",
+    "step-1-description": "O Tapply oferece uma forma conveniente de criar sites diretamente no Telegram",
+    "step-2-title": "Vantagens do Tapply",
+    "step-2-description": "A nossa aplicação simplifica a criação de sítios Web com um design flexível, personalização e ferramentas analíticas/SEO integradas",
+    "step-3-title": "Criar a sua aplicação",
+    "step-3-description": "Crie aplicações únicas para o seu negócio diretamente no Telegram com facilidade e conveniência",
+    "step-4-title": "Gestão de aplicações",
+    "step-4-description": "Gerir a aplicação criada, incluindo funções de gestão, monitorização e actualizações",
+    "step-5-title": "Apoio e contactos",
+    "step-5-description": "Se tiver alguma dúvida ou precisar de assistência, não hesite em contactar a nossa equipa de apoio",
+    "step-6-title": "14 dias de teste grátis!",
+    "step-6-description": "Experimente o Tapply gratuitamente durante 14 dias e veja como é prático gerir as suas tarefas"
+  }
+}

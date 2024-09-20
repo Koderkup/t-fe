@@ -1,0 +1,22 @@
+{
+  "page-title": "Definições do bot",
+  "options": {
+    "option-1": "Mensagem de boas-vindas",
+    "option-2": "Mensagem de confirmação da encomenda"
+  },
+  "welcome-message-modal": {
+    "title": "Mensagem de boas-vindas",
+    "form": {
+      "media-input": {
+        "placeholder": "Adicionar media",
+        "label": "Fotografia"
+      },
+      "text-input": {
+        "placeholder": "Escrever mensagem",
+        "label": "Texto"
+      }
+    }
+  },
+  "order-confirmation-modal": "Confirmação da encomenda",
+  "button-text": "Guardar"
+}

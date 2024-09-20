@@ -1,0 +1,91 @@
+{
+  "products-page.empty-placeholder": {
+    "title": "अपना पहला उत्पाद जोड़ें",
+    "description": "छवियों, विवरण और मूल्य निर्धारण सहित अपने उत्पाद के बारे में विस्तृत जानकारी जोड़कर अपनी इन्वेंट्री बनाना शुरू करें",
+    "button-text": "उत्पाद जोड़ें"
+  },
+
+  "products-page.overview": {
+    "title": "उत्पादों",
+    "all-category": "सभी",
+    "button-text": "उत्पाद जोड़ें"
+  },
+
+  "create-product-page": {
+    "title": "उत्पाद जोड़ें",
+    "name": "प्रोडक्ट का नाम",
+    "name-placeholder": "उत्पाद का नाम दर्ज करें",
+    "name-error": "कृपया उत्पाद का नाम दर्ज करें",
+    "description-short": "संक्षिप्त विवरण (उत्पाद कार्ड के लिए)",
+    "description-short-error": "कृपया संक्षिप्त विवरण जोड़ें",
+    "description-full": "पूर्ण विवरण (उत्पाद पृष्ठ के लिए)",
+    "description-full-error": "कृपया पूर्ण विवरण जोड़ें",
+    "description-placeholder": "उत्पाद का वर्णन करें",
+    "category": "वर्ग",
+    "category-placeholder": "विकल्प चुनें",
+    "media": "मिडिया",
+    "media-button-text": "मीडिया जोड़ो",
+    "featured": "विशेष रुप से प्रदर्शित के रूप में चिह्नित करें",
+    "price": "कीमत",
+    "label": "लेबल",
+    "attributes": "गुण",
+    "attributes-button-text": "विशेषता जोड़ें",
+    "add-button-text": "उत्पाद जोड़ें",
+    "labelsPreset": {
+      "last-chance": "आखिरी मौका",
+      "sale": "बिक्री",
+      "new": "नया"
+    }
+  },
+
+  "attribute-modal": {
+    "title": "विशेषता जोड़ें",
+    "form": {
+      "name": {
+        "label": "गुण नाम",
+        "options": {
+          "color": "रंग",
+          "size": "आकार"
+        }
+      },
+      "feature": {
+        "label": "विशेषता",
+        "placeholder": "विशेषता सुविधा दर्ज करें"
+      },
+      "extraCharge": {
+        "label": "अतिरिक्त मूल्य",
+        "placeholder": "अतिरिक्त शुल्क जोड़ें"
+      },
+      "description": {
+        "label": "विवरण",
+        "placeholder": "विशेषता का वर्णन करें"
+      },
+      "hexCode": {
+        "label": "हेक्स कोड",
+        "placeholder": "हेक्स रंग कोड दर्ज करें"
+      },
+      "option": "विकल्प",
+      "in-stock": "स्टॉक में",
+      "error-text": "यह विशेषता पहले से मौजूद है",
+      "color-error": "अमान्य HEX रंग कोड"
+    },
+    "action-buttons": {
+      "save": "बचाना",
+      "save-changes": "परिवर्तनों को सुरक्षित करें",
+      "delete-attribute": "विशेषता हटाएँ",
+      "add-option": "विकल्प जोड़ें",
+      "delete-option": "हटाएँ विकल्प"
+    }
+  },
+
+  "delete-modal": {
+    "title": "इस लेबल को हटाएं?",
+    "text": "यदि आप इस लेबल को हटाते हैं, तो इसे सभी उत्पाद कार्ड से हटा दिया जाएगा।",
+    "button-actions": {
+      "delete": "हटाएं",
+      "cancel": "रद्द करें"
+    }
+  },
+
+  "product-page": "उत्पाद संपादित करें"
+}

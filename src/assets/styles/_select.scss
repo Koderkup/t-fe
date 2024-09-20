@@ -1,0 +1,44 @@
+.select {
+  &__control {
+    @apply border border-black_30 h-12 rounded-[20px] text-start px-2 hover:shadow-none #{!important};
+    &--is-focused {
+      @apply hover:shadow-none shadow-none #{!important};
+    }
+
+    &--menu-is-open {
+      @apply shadow-none #{!important};
+    }
+
+    &--is-disabled {
+      @apply bg-[#f8f8f8] #{!important};
+    }
+  }
+
+  &__placeholder {
+    @apply text-black_50 #{!important};
+  }
+
+  &__indicator-separator {
+    @apply hidden #{!important};
+  }
+
+  &__menu {
+    @apply rounded-xl shadow-select font-bold text-start z-10 #{!important};
+
+    &-notice {
+      @apply font-medium #{!important};
+    }
+  }
+
+  &__option {
+    @apply text-main_black font-normal px-4 py-[9px] leading-[140p%] #{!important};
+
+    &--is-focused {
+      @apply bg-black_30 #{!important};
+    }
+
+    &--is-selected {
+      @apply bg-black_10 #{!important};
+    }
+  }
+}

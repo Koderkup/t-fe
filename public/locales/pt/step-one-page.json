@@ -1,0 +1,83 @@
+{
+  "step-one-page": {
+    "step": "Passo",
+    "title": "Entrar /informações básicas/ sobre o seu negócio",
+    "placeholder": "Entrar {{name}}",
+    "placeholder-2": "Introduzir a loja {{inputName}}",
+    "placeholder-3": "Token",
+    "step-one-form": {
+      "shop-name-input": "Nome da loja",
+      "botToken": "Token de bot",
+      "address-input": "Endereço",
+      "phone-number-input": "Número de telefone",
+      "description": "Descrição",
+      "email-input": {
+        "label": "Email",
+        "placeholder": "ex: loja@mail.com"
+      },
+      "shop-type-input": {
+        "label": "Tipo",
+        "placeholder": "Escolha uma opção"
+      }
+    },
+    "botTokenText": {
+      "head_over_to": "Vá para",
+      "and": "e",
+      "get_your_token": "obtenha seu token"
+    }
+  },
+
+  "shop-type-selection-page": {
+    "title": "Selecione o tipo",
+    "placeholder": "Pesquisar",
+    "option-1": "Cosméticos e Produtos de Beleza",
+    "option-2": "Roupas e Vestuário",
+    "option-3": "Eletrônicos e Gadgets",
+    "option-4": "Decoração de Casa e Móveis",
+    "option-5": "Joias e Acessórios",
+    "option-6": "Produtos de Saúde e Bem-Estar",
+    "option-7": "Livros e Papelaria",
+    "option-8": "Alimentos e Bebidas",
+    "option-9": "Produtos para Bebês e Crianças",
+    "option-10": "Suprimentos para Animais de Estimação",
+    "option-11": "Brinquedos e Jogos",
+    "option-12": "Artes e Ofícios",
+    "option-13": "Peças e Acessórios Automotivos",
+    "option-14": "Calçados",
+    "option-15": "Equipamentos para Exterior e Camping",
+    "option-16": "Presentes Personalizados",
+    "option-17": "Produtos Digitais (eBooks, Software)",
+    "option-18": "Caixas de Assinatura",
+    "option-19": "Itens Vintage e Antigos",
+    "option-20": "Instrumentos Musicais e Acessórios",
+    "option-21": "Material de Escritório",
+    "option-22": "Jardinagem e Suprimentos para Exterior",
+    "option-23": "Artigos para Festas e Decorações",
+    "option-24": "Acessórios de Viagem",
+    "option-25": "Relógios e Cronômetros",
+    "option-26": "Produtos Éticos e Sustentáveis",
+    "option-27": "Suprimentos para Casamento e Noivas",
+    "option-28": "Produtos de Luxo",
+    "option-29": "Kits de Hobbies e DIY"
+  },
+  "instruction-modal": {
+    "title": "Como Obter o Token do Bot",
+    "list": {
+      "step-one": {
+        "title": "Passo 1: Abra o @BotFather",
+        "description-1": "Encontre o bot",
+        "description-2": "no Telegram. É o bot oficial para criar e gerenciar outros bots."
+      },
+      "step-two": {
+        "title": "Passo 2: Crie um Novo Bot",
+        "description-1": "Envie /newbot para",
+        "description-2": "@BotFather e siga as instruções para nomear seu bot e definir um nome de usuário exclusivo."
+      },
+      "step-three": {
+        "title": "Passo 3: Obtenha o Token",
+        "description-1": "Depois que seu bot for criado,",
+        "description-2": "lhe dará um token. Copie-o e cole-o no campo necessário."
+      }
+    }
+  }
+}

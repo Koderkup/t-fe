@@ -1,0 +1,35 @@
+{
+  "page-title": "Como gostaria /de pagar?",
+  "all-items": "Todos os artigos",
+  "action": "Pagar",
+  "total": "Total",
+  "link-text": "O que é a TaplyCoin?",
+  "payment-methods": {
+    "title": "Método de pagamento",
+    "stripe": {
+      "description": "Transacções com cartões de crédito ou de débito"
+    },
+    "ton": {
+      "description": "Com cada transação, os utilizadores também recebem TapplyCoin"
+    }
+  },
+  "tapply-coin-page": {
+    "description": "Com cada transação via TON, os usuários também recebem TapplyCoin - tokens de marca que podem ser usados dentro do aplicativo para obter acesso a designs exclusivos, descontos e outros recursos exclusivos.",
+    "list-title": "Estes tokens podem ser utilizados para:",
+    "usage-text": {
+      "first": "Compra de modelos especiais que não estão disponíveis para compra normal",
+      "second": "Receber descontos em futuras actualizações ou funcionalidades adicionais.",
+      "third": "Participação em promoções e ofertas exclusivas disponíveis apenas para proprietários de TapplyCoin."
+    }
+  },
+  "payment-confirmation": {
+    "page-title": "Parabéns! Nova aplicação comprada",
+    "page-description": "Desejamos-lhe sucesso no seu negócio. Estamos confiantes de que a sua nova aplicação contribuirá para o seu crescimento e prosperidade.",
+    "page-cell": "Os próximos passos para gerir a candidatura ser-lhe-ão enviados em breve",
+    "link": {
+      "text": "Tem alguma pergunta?",
+      "href": "Contactar-nos"
+    },
+    "button-text": "Voltar à página inicial"
+  }
+}

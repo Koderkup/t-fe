@@ -1,0 +1,22 @@
+{
+  "page-title": "Bot settings",
+  "options": {
+    "option-1": "Welcome message",
+    "option-2": "Order confirmation message"
+  },
+  "welcome-message-modal": {
+    "title": "Welcome message",
+    "form": {
+      "media-input": {
+        "placeholder": "Add media",
+        "label": "Photo"
+      },
+      "text-input": {
+        "placeholder": "Write message",
+        "label": "Text"
+      }
+    }
+  },
+  "order-confirmation-modal": "Order confirmation",
+  "button-text": "Save"
+}

@@ -1,0 +1,37 @@
+{
+  "ad-block-page": {
+    "title": "विज्ञापन ब्लॉक संपादित करें",
+    "button-text": "बचाना",
+    "delete-button-text": "विज्ञापन ब्लॉक हटाएँ"
+  },
+
+  "ad-blocks-page": {
+    "title": "विज्ञापन ब्लॉक",
+    "button-text": "विज्ञापन ब्लॉक जोड़ें"
+  },
+
+  "create-ad-block-page": {
+    "title": "विज्ञापन ब्लॉक बनाएं",
+    "button-text": "बनाएं"
+  },
+
+  "ad-block-form": {
+    "promo-title": "प्रोमो शीर्षक",
+    "promo-title-placeholder": "प्रोमो शीर्षक दर्ज करें",
+    "promo-link": "प्रोमो लिंक",
+    "promo-link-placeholder": "प्रोमो लिंक के लिए नाम दर्ज करें",
+    "promo-url": "प्रोमो यूआरएल",
+    "promo-url-placeholder": "जैसे www.promorel.com",
+    "media": "मिडिया",
+    "media-button-text": "मीडिया जोड़ो",
+    "title": "शीर्षक",
+    "title-placeholder": "शीर्षक दर्ज करें",
+    "description": "विवरण",
+    "description-placeholder": "विज्ञापन ब्लॉक का वर्णन करें",
+    "button-text": "टेक्स्ट बटन",
+    "button-text-placeholder": "बटन टेक्स्ट दर्ज करें",
+    "button-url": "बटन यूआरएल",
+    "button-url-placeholder": "जैसे www.promorel.com",
+    "activate": "सक्रिय"
+  }
+}

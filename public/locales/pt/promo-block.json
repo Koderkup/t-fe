@@ -1,0 +1,31 @@
+{
+  "promo-block-page": {
+    "title": "Editar bloco promocional",
+    "button-text": "Guardar",
+    "delete-button-text": "Eliminar o bloco de anúncios"
+  },
+
+  "promo-blocks-page": {
+    "title": "Blocos promocionais",
+    "button-text": "Adicionar bloco promocional"
+  },
+
+  "create-promo-block-page": {
+    "title": "Criar bloco promocional",
+    "button-text": "Criar"
+  },
+
+  "promo-block-form": {
+    "title": "Título",
+    "title-placeholder": "Introduzir título",
+    "description": "Descrição",
+    "description-placeholder": "Descrever o bloco promocional",
+    "promo-text": "Promo text",
+    "promo-text-placeholder": "Introduzir texto",
+    "link": "Ligação do artigo",
+    "link-placeholder": "Por exemplo, www.promourl.com",
+    "media": "Media",
+    "media-button-text": "Adicionar meios de comunicação",
+    "activate": "Ativar"
+  }
+}

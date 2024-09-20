@@ -1,0 +1,14 @@
+{
+  "additional-feature-page": {
+    "title": "Оберіть /додаткові функції/ для вашої програми"
+  },
+
+  "payment-method-page": {
+    "payment": "Оплата",
+    "add": "Додати"
+  },
+
+  "feature-page": {
+    "add-for": "Додати за {{price}}"
+  }
+}

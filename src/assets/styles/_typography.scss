@@ -1,0 +1,66 @@
+.typography {
+  @apply text-main_black;
+
+  &:where(.heading-2xl) {
+    letter-spacing: -1px;
+    @apply text-[40px] leading-[110%] font-semibold;
+  }
+
+  &:where(.heading-xl) {
+    letter-spacing: -1px;
+    @apply text-[32px] leading-[100%] font-medium;
+  }
+
+  &:where(.heading-lg) {
+    letter-spacing: -0.5px;
+    @apply text-3xl leading-[100%] font-medium;
+  }
+
+  &:where(.heading-md) {
+    letter-spacing: -1px;
+    @apply text-[28px] leading-[135%] font-medium;
+  }
+
+  &:where(.heading-sm) {
+    letter-spacing: -1px;
+    @apply text-[22px] leading-[145%] font-medium;
+  }
+
+  &:where(.body-2xl) {
+    @apply text-xl leading-[130%];
+  }
+
+  &:where(.body-xl) {
+    letter-spacing: -1px;
+    @apply text-lg leading-[145%];
+  }
+
+  &:where(.body-base) {
+    @apply text-base leading-[140%];
+  }
+
+  &:where(.body-md) {
+    @apply text-sm leading-[145%];
+  }
+
+  &:where(.body-sm) {
+    @apply text-xs leading-[150%];
+  }
+
+  &:where(.body-xs) {
+    @apply text-[10px] leading-[160%];
+  }
+
+  &:where(.display-lg) {
+    letter-spacing: -1px;
+    @apply text-[56px] leading-[110%];
+  }
+
+  &:where(.display-md) {
+    @apply text-[28px] leading-[135%] font-medium;
+  }
+
+  &:where(.display-sm) {
+    @apply text-[28px] leading-[120%];
+  }
+}

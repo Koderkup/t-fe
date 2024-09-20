@@ -1,0 +1,40 @@
+{
+  "order-history-page": {
+    "title": "Order history",
+    "link-text": "See details"
+  },
+  "order-details-page": {
+    "title": "Order #{{orderNumber}}",
+    "info-list": {
+      "order-date": "Order date:",
+      "customer-name": "Customer name:",
+      "customer-number": "Customer number:",
+      "delivery-address": "Delivery address:",
+      "payment": "Payment:",
+      "status": "Status:"
+    },
+    "price-info": {
+      "subtotal": "Subtotal",
+      "discount": "Discount",
+      "delivery": "Delivery"
+    },
+    "button-text": "Change status"
+  },
+  "status-modal": {
+    "cancel": "Cancel",
+    "title": "Choose status",
+    "button-text": "Set status"
+  },
+  "quantity": "Quantity",
+  "total": "Total",
+  "status-variants": {
+    "pending": "Pending",
+    "paid": "Paid",
+    "confirmed": "Confirmed",
+    "shipped": "Shipped",
+    "delivered": "Delivered",
+    "cancelled": "Cancelled"
+  },
+
+  "data-placeholder": "No Orders Yet!"
+}

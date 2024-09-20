@@ -1,0 +1,37 @@
+{
+  "ad-block-page": {
+    "title": "Редактирование рекламного блока",
+    "button-text": "Сохранить",
+    "delete-button-text": "Удалить рекламный блок"
+  },
+
+  "ad-blocks-page": {
+    "title": "Рекламные блоки",
+    "button-text": "Добавить рекламный блок"
+  },
+
+  "create-ad-block-page": {
+    "title": "Создайте рекламный блок",
+    "button-text": "Создать"
+  },
+
+  "ad-block-form": {
+    "promo-title": "Название промо",
+    "promo-title-placeholder": "Введите название промо",
+    "promo-link": "Промо-ссылка",
+    "promo-link-placeholder": "Введите имя для промо-ссылки",
+    "promo-url": "Промо адрес",
+    "promo-url-placeholder": "Например www.promourl.com",
+    "media": "Медиа",
+    "media-button-text": "Добавить медиа",
+    "title": "Заголовок",
+    "title-placeholder": "Введите заголовок",
+    "description": "Описание",
+    "description-placeholder": "Опишите промо блок",
+    "button-text": "Текст кнопки",
+    "button-text-placeholder": "Введите текст кнопки",
+    "button-url": "URL-адрес кнопки",
+    "button-url-placeholder": "Например www.promourl.com",
+    "activate": "Активируйте"
+  }
+}

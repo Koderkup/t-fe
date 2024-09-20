@@ -1,0 +1,77 @@
+{
+  "home-page.navigation": {
+    "main": "Main",
+    "settings": "Settings",
+    "categories": "Categories",
+    "products": "Products",
+    "orders": "Orders",
+    "newsletters": "Newsletter",
+    "payment": "Payment",
+    "bot-settings": "Bot Settings",
+    "order-settings": "Order Settings",
+    "ad-block": "Ad block",
+    "promo-codes": "Promocodes",
+    "promo-block": "Promo block"
+  },
+  "action-sheet.actions": {
+    "edit": "Edit",
+    "delete": "Delete",
+    "continue": "Continue"
+  },
+  "dropdown-menu": {
+    "selected": "Selected:",
+    "items": "Items",
+    "item": "Item",
+    "menu-actions": {
+      "menu-open": "See details",
+      "close-menu": "Hide details",
+      "remove-feature": "Remove"
+    },
+    "features": {
+      "visual-design": "Visual design"
+    }
+  },
+  "control-panel": {
+    "create-app": "Create an app",
+    "administrate": "Administrate",
+    "app-settings": "App settings"
+  },
+  "example-text": "Pack my box with five dozen liquor jugs.",
+  "languages-modal": {
+    "title": "Select language",
+    "input-placeholder": "Search",
+    "zh": "Chinese",
+    "en": "English",
+    "hi": "Hindi",
+    "pt": "Portuguese",
+    "uk": "Ukrainian",
+    "ru": "Russian"
+  },
+  "app-settings-page": {
+    "page-title": "Settings",
+    "balance": "Tapply coin balance",
+    "phone-number": "Phone number",
+    "name": "Name",
+    "last-name": "Last name",
+    "last-name-placeholder": "Second name",
+    "language": "Language*",
+    "language-placeholder": "Choose option"
+  },
+  "coupon-modal": {
+    "title": "Congratulations!",
+    "description": "You've just unlocked a coupon for 100 TapplyCoins",
+    "button-text": "Get it"
+  },
+  "error-messages": {
+    "required": "This field is required",
+    "email": "Invalid email format",
+    "phoneNumber": "Invalid phone number format"
+  },
+  "administrate-page": {
+    "title": "Shop administrate",
+    "description": {
+      "part-1": "Here you can view all the stores",
+      "part-2": "that are under your administration"
+    }
+  }
+}

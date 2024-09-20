@@ -1,0 +1,14 @@
+{
+  "additional-feature-page": {
+    "title": "Choose /additional features/ for your application"
+  },
+
+  "payment-method-page": {
+    "payment": "Payment",
+    "add": "Add"
+  },
+
+  "feature-page": {
+    "add-for": "Add for {{price}}"
+  }
+}

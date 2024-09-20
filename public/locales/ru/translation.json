@@ -1,0 +1,77 @@
+{
+  "home-page.navigation": {
+    "main": "Главная",
+    "settings": "Настройки",
+    "categories": "Категории",
+    "products": "Товары",
+    "orders": "Заказы",
+    "newsletters": "Рассылка",
+    "payment": "Оплата",
+    "bot-settings": "Настройки бота",
+    "order-settings": "Настройки заказа",
+    "ad-block": "Рекламный блок",
+    "promo-codes": "Промокоды",
+    "promo-block": "Промо блок"
+  },
+  "action-sheet.actions": {
+    "edit": "Редактировать",
+    "delete": "Удалить",
+    "continue": "Продолжить"
+  },
+  "dropdown-menu": {
+    "selected": "Добавленный:",
+    "items": "Товары",
+    "item": "Товар",
+    "menu-actions": {
+      "menu-open": "Смотреть подробности",
+      "close-menu": "Скрыть подробности",
+      "remove-feature": "Убрать"
+    },
+    "features": {
+      "visual-design": "Визуальный дизайн"
+    }
+  },
+  "control-panel": {
+    "create-app": "Создайте приложение",
+    "administrate": "Администрировать",
+    "app-settings": "Настройки приложения"
+  },
+  "example-text": "Упакуйте мой ящик пятью дюжинами кувшинов с ликером.",
+  "languages-modal": {
+    "title": "Выберите язык",
+    "input-placeholder": "Поиск",
+    "zh": "Китайский",
+    "en": "Английский язык",
+    "hi": "Хинди",
+    "pt": "Португальский",
+    "uk": "Украинский",
+    "ru": "Русский"
+  },
+  "app-settings-page": {
+    "page-title": "Настройки",
+    "balance": "Баланс монет Tapply",
+    "phone-number": "Номер телефона",
+    "name": "Имя",
+    "last-name": "Фамилия",
+    "last-name-placeholder": "Фамилия",
+    "language": "Язык*",
+    "language-placeholder": "Выберите вариант"
+  },
+  "coupon-modal": {
+    "title": "Поздравляю!",
+    "description": "Вы только что разблокировали купон на 100 TapplyCoins",
+    "button-text": "Получить"
+  },
+  "error-messages": {
+    "required": "Это поле обязательно для заполнения",
+    "email": "Неверный формат электронной почты",
+    "phoneNumber": "Неверный формат телефонного номера"
+  },
+  "administrate-page": {
+    "title": "Администрирование магазинов",
+    "description": {
+      "part-1": "Здесь вы можете просмотреть все магазины",
+      "part-2": "которые находятся под вашим управлением"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "welcome-page": {
+    "title": "欢迎来到",
+    "description": "直接在 Telegram 中为您的业务创建独特的应用程序，轻松便捷",
+    "continue": "继续",
+    "skip": "跳过",
+    "next": "下一页",
+    "get-started": "开始",
+    "step": "步骤",
+    "step-1-title": "为什么需要 Tapply?",
+    "step-1-description": "Tapply Why do you need Telegram",
+    "step-2-title": "Tapply 优势",
+    "step-2-description": "我们的应用程序可通过灵活的设计、定制和内置的分析/搜索引擎工具简化网站建设。",
+    "step-3-title": "创建您的应用程序",
+    "step-3-description": "直接在 Telegram 中为您的业务创建独特的应用程序，轻松便捷",
+    "step-4-title": "应用程序管理",
+    "step-4-description": "管理创建的应用程序，包括管理功能、监控和更新",
+    "step-5-title": "支持和联系方式",
+    "step-5-description": "如果您有任何疑问或需要帮助，请随时联系我们的支持团队",
+    "step-6-title": "14 天免費試用！",
+    "step-6-description": "免費試用 Tapply 14 天，看看管理任務有多方便"
+  }
+}

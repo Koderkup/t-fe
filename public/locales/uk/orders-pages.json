@@ -1,0 +1,40 @@
+{
+  "order-history-page": {
+    "title": "Історія замовлень",
+    "link-text": "Переглянути деталі"
+  },
+  "order-details-page": {
+    "title": "Замовлення #{{orderNumber}}",
+    "info-list": {
+      "order-date": "Дата замовлення:",
+      "customer-name": "Ім'я клієнта:",
+      "customer-number": "Номер клієнта:",
+      "delivery-address": "Адреса доставки:",
+      "payment": "Оплата:",
+      "status": "Статус:"
+    },
+    "price-info": {
+      "subtotal": "Разом",
+      "discount": "Знижка",
+      "delivery": "Доставка"
+    },
+    "button-text": "Змінити статус"
+  },
+  "status-modal": {
+    "cancel": "Скасування",
+    "title": "Виберіть статус",
+    "button-text": "Встановити статус"
+  },
+  "quantity": "Кількість",
+  "total": "Усього",
+  "status-variants": {
+    "pending": "В очікуванні",
+    "paid": "Оплачено",
+    "confirmed": "Підтверджено",
+    "shipped": "Відправлено",
+    "delivered": "Доставлено",
+    "cancelled": "Скасовано"
+  },
+
+  "data-placeholder": "Замовлень поки що немає!"
+}

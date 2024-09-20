@@ -1,0 +1,44 @@
+{
+  "categories-page.empty-placeholder": {
+    "title-part-1": "Começar:",
+    "title-part-2": "criar categorias",
+    "title-part-3": "e",
+    "title-part-4": "adicionar produtos",
+    "description": "Organize a sua loja para que seja mais fácil para os clientes encontrarem o que procuram",
+    "button-text": "Adicionar categoria"
+  },
+
+  "categories-page.preview": {
+    "title": "Categorias",
+    "button-text": "Adicionar categoria"
+  },
+
+  "create-category-page": {
+    "title": "Criar categoria",
+    "name": "Nome da categoria",
+    "name-placeholder": "Introduzir o nome da categoria",
+    "description": "Descrição",
+    "description-placeholder": "Descrever a categoria",
+    "button-text": "Adicionar categoria"
+  },
+
+  "category-page": {
+    "title": "Produtos",
+    "add-product-text": "Adicionar produto",
+    "add-subcategory-text": "Adicionar subcategoria"
+  },
+
+  "create-subcategory-page": {
+    "title": "Criar subcategoria",
+    "name": "Nome da subcategoria",
+    "name-placeholder": "Introduzir o nome da subcategoria",
+    "parent-category": "Categoria dos pais",
+    "description": "Descrição",
+    "description-placeholder": "Descrever a subcategoria",
+    "button-text": "Adicionar subcategoria"
+  },
+  "delete-modal": {
+    "cancel": "Cancelar",
+    "delete-category": "Eliminar categoria"
+  }
+}

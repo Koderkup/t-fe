@@ -1,0 +1,22 @@
+{
+  "page-title": "Настройки бота",
+  "options": {
+    "option-1": "Приветственное сообщение",
+    "option-2": "Сообщение о подтверждении заказа"
+  },
+  "welcome-message-modal": {
+    "title": "Приветственное сообщение",
+    "form": {
+      "media-input": {
+        "placeholder": "Добавить медиа",
+        "label": "Фото"
+      },
+      "text-input": {
+        "placeholder": "Написать сообщение",
+        "label": "Текст"
+      }
+    }
+  },
+  "order-confirmation-modal": "Подтверждение заказа",
+  "button-text": "Сохранить"
+}

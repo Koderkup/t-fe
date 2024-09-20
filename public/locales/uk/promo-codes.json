@@ -1,0 +1,32 @@
+{
+  "promo-code-page": {
+    "title": "Редагувати промокод",
+    "button-text": "Зберегти",
+    "delete-button-text": "Видалити промокод"
+  },
+
+  "promo-codes-page": {
+    "title": "Промокоди",
+    "button-text": "Додати промокод"
+  },
+
+  "create-promo-code-page": {
+    "title": "Створіть промокод",
+    "button-text": "Створити"
+  },
+
+  "promo-code-form": {
+    "name": "Назва промокоду",
+    "name-placeholder": "Введіть назву промокоду",
+    "discount": "Знижка",
+    "start-date": "Дата початку",
+    "date-placeholder": "Виберіть дату",
+    "end-date": "Дата закінчення",
+    "activate": "Активуйте",
+    "end-date-error": "Будь ласка, введіть коректну дату",
+    "datepicker-start-title": "Виберіть дату початку",
+    "datepicker-end-title": "Виберіть дату закінчення",
+    "datepicker-start-button": "Встановіть дату початку",
+    "datepicker-end-button": "Встановіть дату закінчення"
+  }
+}
